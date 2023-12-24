@@ -21,9 +21,18 @@ import pandas as pd
 
 
 SOURCE_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+DATE_CSS_SELECTOR = "div.average-price > span"
 HEADERS_CSS_SELECTOR = "#sortable > thead > tr > th"
 ROWS_CSS_SELECTOR = "#sortable > tbody > tr"
+
 DATASETS_BASE_PATH = Path("./data")
+
+HEADERS_BASIC = ["State-Name", "State-Abbreviation"]
+HEADERS_CURRENCY = "Currency"
+HEADERS_UNIT = "Unit"
+HEADERS_DATE = "Date"
+CURRENCY = "U.S Dollar"
+UNIT = "US Gallon"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -48,21 +57,41 @@ while chrome_driver.execute_script("return document.readyState") != "complete":
     logging.info("Waiting for document ready state ...")
 logging.info("Requesting page finished.")
 
-# parse data headers
+# parse price date
 logging.info("Parsing data ...")
+try:
+    scrape_date = chrome_driver.find_element(By.CSS_SELECTOR, DATE_CSS_SELECTOR)
+    scrape_date = scrape_date.text.strip().split()[-1].strip()
+    scrape_date = datetime.datetime.strptime(scrape_date, "%m/%d/%y").date()
+except:
+    scrape_date = datetime.date.today().date()
+
+# parse data headers
 headers = chrome_driver.find_elements(By.CSS_SELECTOR, HEADERS_CSS_SELECTOR)
-headers = [header.text.strip() for header in headers]
+headers = HEADERS_BASIC + [header.text.strip() for header in headers[1:]]
+
 
 # parse data rows
 rows = chrome_driver.find_elements(By.CSS_SELECTOR, ROWS_CSS_SELECTOR)
-rows = [[td.text.strip() for td in row.find_elements(By.TAG_NAME, "td")] for row in rows]
-rows = [[row[0]] + [float(col.replace("$", "").strip()) for col in row[1:]] for row in rows]
+
+
+def parse_row(row):
+    tds = row.find_elements(By.TAG_NAME, "td")
+    state_td = tds[0].find_element(By.TAG_NAME, "a")
+    state_name = state_td.text.strip()
+    state_abbreviation = state_td.get_attribute("href").split("=")[-1].strip().upper()
+    prices = [float(price_td.text.replace("$", "").strip()) for price_td in tds[1:]]
+    return [state_name, state_abbreviation] + prices
+
+
+rows = map(parse_row, rows)
 
 # collect data
-scrape_date = datetime.date.today()
 data = [dict(zip(headers, row)) for row in rows]
 df = pd.DataFrame(data)
-df["Date"] = scrape_date
+df[HEADERS_CURRENCY] = CURRENCY
+df[HEADERS_UNIT] = UNIT
+df[HEADERS_DATE] = scrape_date
 logging.info("Parsing data finished.")
 
 # save data

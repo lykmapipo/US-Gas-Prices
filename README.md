@@ -37,7 +37,7 @@ The scraped data are saved in `csv` format, and may be found under `data` folder
 ```python
 import pandas as pd
 
-file = "./data/state-daily-averages/2023-12-13.csv"
+file = "./data/state-daily-averages/2023-12-24.csv"
 df = pd.read_csv(file)
 
 df.info()
