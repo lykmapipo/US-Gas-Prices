@@ -76,9 +76,8 @@ expected_conditions = (
 elements = chrome_driver_wait.until(EC.all_of(*expected_conditions))
 logging.info("Requesting page finished.")
 
-# parse price date
+# parse gas price date
 logging.info("Parsing data ...")
-scrape_date, headers, rows = elements
 try:
     scrape_date = chrome_driver.find_element(By.CSS_SELECTOR, DATE_CSS_SELECTOR)
     scrape_date = scrape_date.text.strip().split()[-1].strip()

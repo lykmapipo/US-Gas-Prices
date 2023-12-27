@@ -32,24 +32,32 @@ pip install -r requirements.txt
 python scrape_state_daily_averages.py
 ```
 
+- To scrape [metro gas price daily averages](https://gasprices.aaa.com/state-gas-price-averages/), run:
+
+```sh
+python scrape_metro_daily_averages.py
+```
+
 ## Data Exploration
 The scraped data are saved in `csv` format, and may be found under `data` folder.
 
-- Explore part of the `state gas price daily averages` data using `pandas`, use:
+- Explore part of the data using `pandas`, use:
 ```python
 import pandas as pd
 
-file = "./data/state-daily-averages/2023-12-24.csv"
+# file = "./data/metro-daily-averages/2023-12-27.csv"
+file = "./data/state-daily-averages/2023-12-27.csv"
 df = pd.read_csv(file)
 
 df.info()
 ```
 
-- To explore all the `state gas price daily averages` data using `pandas`, use:
+- To explore all the data using `pandas`, use:
 ```python
 import glob
 import pandas as pd
 
+# files = glob.glob("./data/metro-daily-averages/*.csv")
 files = glob.glob("./data/state-daily-averages/*.csv")
 dfs = [pd.read_csv(file) for file in files]
 df = pd.concat(dfs, ignore_index=True)
