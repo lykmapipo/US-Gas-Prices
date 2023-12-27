@@ -2,6 +2,8 @@
 
 Python scripts that scrape US gas prices.
 
+> 👋 This repository's maintainer is available to hire for US gas prices data-extraction consulting projects. To get a cost estimate, send email to lallyelias87@gmail.com (for projects of any size or complexity).
+
 ## Requirements
 
 - [Python 3.8+](https://www.python.org/)

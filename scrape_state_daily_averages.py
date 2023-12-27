@@ -3,6 +3,7 @@ Scrape state gas price daily averages from AAA Gas Prices website.
 
 Usage::
 
+    mkdir -p data/state-daily-averages
     pip install selenium webdriver-manager pandas
     python scrape_state_daily_averages.py
 
@@ -16,6 +17,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 from webdriver_manager.chrome import ChromeDriverManager
+
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 import pandas as pd
 
@@ -33,6 +37,8 @@ HEADERS_UNIT = "Unit"
 HEADERS_DATE = "Date"
 CURRENCY = "U.S Dollar"
 UNIT = "US Gallon"
+
+DRIVER_WAIT_TIME_MAXIMUM = 10
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -53,18 +59,32 @@ logging.info("Preparing chrome finished.")
 # request page
 logging.info("Requesting page ...")
 chrome_driver.get(SOURCE_URL)
+
+# wait for document to be ready to use JavaScript
+logging.info("Waiting for document to be ready to use JavaScript ...")
 while chrome_driver.execute_script("return document.readyState") != "complete":
     logging.info("Waiting for document ready state ...")
+
+# wait for common elements to be present on the page (i.e map, tables ...)
+logging.info("Waiting for document common elements to be present ...")
+chrome_driver_wait = WebDriverWait(chrome_driver, DRIVER_WAIT_TIME_MAXIMUM)
+expected_conditions = (
+    EC.presence_of_element_located((By.CSS_SELECTOR, DATE_CSS_SELECTOR)),  # price date
+    EC.presence_of_all_elements_located((By.CSS_SELECTOR, HEADERS_CSS_SELECTOR)),  # table header
+    EC.presence_of_all_elements_located((By.CSS_SELECTOR, ROWS_CSS_SELECTOR)),  # table rows
+)
+elements = chrome_driver_wait.until(EC.all_of(*expected_conditions))
 logging.info("Requesting page finished.")
 
 # parse price date
 logging.info("Parsing data ...")
+scrape_date, headers, rows = elements
 try:
     scrape_date = chrome_driver.find_element(By.CSS_SELECTOR, DATE_CSS_SELECTOR)
     scrape_date = scrape_date.text.strip().split()[-1].strip()
     scrape_date = datetime.datetime.strptime(scrape_date, "%m/%d/%y").date()
 except:
-    scrape_date = datetime.date.today().date()
+    scrape_date = datetime.date.today()
 
 # parse data headers
 headers = chrome_driver.find_elements(By.CSS_SELECTOR, HEADERS_CSS_SELECTOR)
