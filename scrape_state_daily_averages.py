@@ -90,7 +90,6 @@ except:
 headers = chrome_driver.find_elements(By.CSS_SELECTOR, HEADERS_CSS_SELECTOR)
 headers = HEADERS_BASIC + [header.text.strip() for header in headers[1:]]
 
-
 # parse data rows
 rows = chrome_driver.find_elements(By.CSS_SELECTOR, ROWS_CSS_SELECTOR)
 
