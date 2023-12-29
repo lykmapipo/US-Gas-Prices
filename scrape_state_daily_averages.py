@@ -13,16 +13,12 @@ import datetime
 import logging
 from pathlib import Path
 
+import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
-from webdriver_manager.chrome import ChromeDriverManager
-
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
-import pandas as pd
-
+from selenium.webdriver.support.ui import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
 
 SOURCE_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
 DATE_CSS_SELECTOR = "div.average-price > span"
