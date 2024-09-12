@@ -43,6 +43,8 @@ jobs:
     - name: Scrape state daily averages
       id: scrape-state-daily-averages
       run: |
+        rm ./data/state-daily-averages/*.csv
+        git rm ./data/state-daily-averages/*.csv
         python scrape_state_daily_averages.py
 
     - name: Check for changes
