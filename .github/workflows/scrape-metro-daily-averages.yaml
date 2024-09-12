@@ -1,0 +1,76 @@
+name: scrape-metro-daily-averages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 20 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-metro-daily-averages:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout codes
+      id: checkout-codes
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Set up Python
+      id: setup-python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.8
+        architecture: x64
+
+    - name: Set up Chrome and ChromeDriver
+      id: setup-chrome
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+        install-dependencies: true
+        install-chromedriver: true
+
+    - name: Install dependencies
+      id: install-dependencies
+      run: |
+        pip install -U pip
+        pip install -r requirements.txt
+
+    - name: Scrape metro daily averages
+      id: scrape-metro-daily-averages
+      run: |
+        rm ./data/metro-daily-averages/*.csv
+        git rm ./data/metro-daily-averages/*.csv
+        python scrape_metro_daily_averages.py
+
+    - name: Check for changes
+      id: check-changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        echo "Checking for changes..."
+        change_count=$(git status --porcelain | grep -E '^M|^A|^D|^R|^U|^?' | wc -l)
+        if [ "$change_count" -gt 0 ]; then
+          echo "Changes detected"
+          echo "has_changes=true" >> $GITHUB_ENV
+        else
+          echo "No changes detected"
+          echo "has_changes=false" >> $GITHUB_ENV
+        fi
+
+    - name: Commit changes
+      if: ${{ env.has_changes == 'true' }}
+      run: |
+        git add --all
+        git commit -m "chore(data): scrape latest metro daily averages"
+
+    - name: Push changes
+      if: ${{ env.has_changes == 'true' }}
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref_name }}
