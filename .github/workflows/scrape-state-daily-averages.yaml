@@ -67,7 +67,7 @@ jobs:
       if: ${{ env.has_changes == 'true' }}
       run: |
         git add --all --ignore-errors
-        git commit -m "chore(data): scrape latest state daily averages"
+        git commit --allow-empty -m "chore(data): scrape latest state daily averages"
 
     - name: Push changes
       id: push-changes
