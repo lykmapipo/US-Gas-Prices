@@ -63,12 +63,14 @@ jobs:
         fi
 
     - name: Commit changes
+      id: commit-changes
       if: ${{ env.has_changes == 'true' }}
       run: |
-        git add --all
+        git add --all --ignore-errors
         git commit -m "chore(data): scrape latest state daily averages"
 
     - name: Push changes
+      id: push-changes
       if: ${{ env.has_changes == 'true' }}
       uses: ad-m/github-push-action@v0.8.0
       with:
