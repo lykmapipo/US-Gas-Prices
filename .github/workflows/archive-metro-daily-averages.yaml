@@ -1,0 +1,20 @@
+name: archive-metro-daily-averages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "50 19 * * *"
+
+jobs:
+  archive-metro-daily-averages:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Archive metro daily averages
+      id: archive-metro-daily-averages
+      run: |
+        STATES=("AK" "AL" "AR" "AZ" "CA" "CO" "CT" "DC" "DE" "FL" "GA" "HI" "IA" "ID" "IL" "IN" "KS" "KY" "LA" "MA" "MD" "ME" "MI" "MN" "MO" "MS" "MT" "NC" "ND" "NE" "NH" "NJ" "NM" "NV" "NY" "OH" "OK" "OR" "PA" "RI" "SC" "SD" "TN" "TX" "UT" "VA" "VT" "WA" "WI" "WV" "WY")
+        for STATE in "${STATES[@]}"; do
+            RESPONSE=$(curl -s -D - -o /dev/null -I "https://web.archive.org/save/https://gasprices.aaa.com/?state=$STATE")
+            URL=$(echo "$RESPONSE" | grep -i 'Location: http' | awk '{print $2}')
+            echo "Archived URL: $URL"
+        done
