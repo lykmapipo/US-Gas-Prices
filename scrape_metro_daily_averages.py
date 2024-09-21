@@ -9,6 +9,7 @@ Usage::
 
 """
 
+import os
 import datetime
 import logging
 import time
@@ -21,7 +22,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-SOURCE_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+SOURCE_DEFAULT_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+SOURCE_URL = os.environ.get("SOURCE_URL") or SOURCE_DEFAULT_URL
 DATE_CSS_SELECTOR = "div.average-price > span"
 
 STATES_CSS_SELECTOR = "#sortable > tbody > tr"
@@ -30,7 +32,8 @@ METROS_ACCORDION_EXPAND_CSS_SELECTOR = "a.expand-all-js"
 METROS_NAME_CSS_SELECTOR = "div.accordion-prices > h3.ui-accordion-header"
 METROS_TABLE_CSS_SELECTOR = "div.accordion-prices > div.ui-accordion-content > div.tblwrap > table.table-mob"
 
-DATASETS_BASE_PATH = Path("./data")
+DATASETS_DEFAULT_BASE_PATH = Path("./data")
+DATASETS_BASE_PATH = Path(os.environ.get("DATASETS_BASE_PATH") or DATASETS_DEFAULT_BASE_PATH)
 
 HEADERS_BASIC = ["State-Name", "State-Abbreviation", "Metro-Name"]
 HEADERS_CURRENCY = "Currency"

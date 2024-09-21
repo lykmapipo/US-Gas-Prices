@@ -9,6 +9,7 @@ Usage::
 
 """
 
+import os
 import datetime
 import logging
 from pathlib import Path
@@ -20,12 +21,15 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 
-SOURCE_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+SOURCE_DEFAULT_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
+SOURCE_URL = os.environ.get("SOURCE_URL") or SOURCE_DEFAULT_URL
+
 DATE_CSS_SELECTOR = "div.average-price > span"
 HEADERS_CSS_SELECTOR = "#sortable > thead > tr > th"
 ROWS_CSS_SELECTOR = "#sortable > tbody > tr"
 
-DATASETS_BASE_PATH = Path("./data")
+DATASETS_DEFAULT_BASE_PATH = Path("./data")
+DATASETS_BASE_PATH = Path(os.environ.get("DATASETS_BASE_PATH") or DATASETS_DEFAULT_BASE_PATH)
 
 HEADERS_BASIC = ["State-Name", "State-Abbreviation"]
 HEADERS_CURRENCY = "Currency"
