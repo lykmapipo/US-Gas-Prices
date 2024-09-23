@@ -3,7 +3,7 @@ name: archive-state-daily-averages
 on:
   workflow_dispatch:
   schedule:
-    - cron: "50 19 * * *"
+    - cron: "7 20 * * *"
 
 jobs:
   archive-state-daily-averages:

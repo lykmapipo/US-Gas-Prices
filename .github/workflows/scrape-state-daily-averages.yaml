@@ -3,7 +3,7 @@ name: scrape-state-daily-averages
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "23 20 * * *"
 
 permissions:
   contents: write
