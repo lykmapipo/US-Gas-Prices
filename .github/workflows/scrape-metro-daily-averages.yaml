@@ -26,11 +26,21 @@ jobs:
         python-version: 3.8
         architecture: x64
 
+    - name: Choose Chrome version
+      id: choose-chrome-version
+      run: |
+        CHROME_VERSIONS_URL="https://googlechromelabs.github.io/chrome-for-testing/known-good-versions.json"
+        CHROME_VERSIONS=($(curl -s $CHROME_VERSIONS_URL | jq -r '.versions[].version' | awk -F'.' '$1 > 128'))
+        CHROME_VERSION_INDEX=$((RANDOM % ${#CHROME_VERSIONS[@]}))
+        CHROME_VERSION=${CHROME_VERSIONS[$CHROME_VERSION_INDEX]}
+        echo "Using Chrome version: $CHROME_VERSION"
+        echo "chrome_version=$CHROME_VERSION" >> $GITHUB_ENV
+
     - name: Set up Chrome and ChromeDriver
       id: setup-chrome
       uses: browser-actions/setup-chrome@v1
       with:
-        chrome-version: stable
+        chrome-version: ${{ env.chrome_version }}
         install-dependencies: true
         install-chromedriver: true
 
