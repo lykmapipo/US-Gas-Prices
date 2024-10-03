@@ -9,9 +9,10 @@ Usage::
 
 """
 
-import os
 import datetime
 import logging
+import os
+import random
 from pathlib import Path
 
 import pandas as pd
@@ -48,12 +49,25 @@ logging.info("Preparing chrome ...")
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--incognito")
+chrome_options.add_argument("--no-default-browser-check")
+chrome_options.add_argument("--disable-first-run-ui")
+chrome_options.add_argument("--no-first-run")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option("useAutomationExtension", False)
+chrome_options.add_argument("--disable-sync")
+
+window_width = random.randint(900, 1920)
+window_height = random.randint(768, 1080)
+logging.info(f"Set window-size to {window_width},{window_height}")
+chrome_options.add_argument(f"--window-size={window_width},{window_height}")
 
 chrome_driver_manager = ChromeDriverManager()
 chrome_executable_path = chrome_driver_manager.install()
 chrome_service = webdriver.ChromeService(executable_path=chrome_executable_path)
 
 chrome_driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+chrome_driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 logging.info("Preparing chrome finished.")
 
 # request page
