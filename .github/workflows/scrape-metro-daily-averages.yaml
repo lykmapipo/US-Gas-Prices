@@ -10,7 +10,8 @@ permissions:
 
 jobs:
   scrape-metro-daily-averages:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - name: Checkout codes
       id: checkout-codes

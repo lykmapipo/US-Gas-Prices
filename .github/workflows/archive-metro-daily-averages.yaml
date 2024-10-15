@@ -7,7 +7,8 @@ on:
 
 jobs:
   archive-metro-daily-averages:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - name: Archive northeast states metro daily averages
       id: archive-northeast-states-metro-daily-averages
