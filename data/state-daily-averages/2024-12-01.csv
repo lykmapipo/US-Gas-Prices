@@ -1,0 +1,52 @@
+State-Name,State-Abbreviation,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,3.458,3.722,3.91,3.57,U.S Dollar,US Gallon,2024-12-01
+Alabama,AL,2.73,3.156,3.546,3.324,U.S Dollar,US Gallon,2024-12-01
+Arkansas,AR,2.626,3.015,3.405,3.181,U.S Dollar,US Gallon,2024-12-01
+Arizona,AZ,3.2,3.527,3.85,3.545,U.S Dollar,US Gallon,2024-12-01
+California,CA,4.421,4.631,4.817,4.862,U.S Dollar,US Gallon,2024-12-01
+Colorado,CO,2.908,3.292,3.611,3.34,U.S Dollar,US Gallon,2024-12-01
+Connecticut,CT,3.066,3.689,4.037,3.673,U.S Dollar,US Gallon,2024-12-01
+District of Columbia,DC,3.245,3.751,4.204,3.698,U.S Dollar,US Gallon,2024-12-01
+Delaware,DE,2.971,3.541,3.806,3.471,U.S Dollar,US Gallon,2024-12-01
+Florida,FL,3.106,3.547,3.862,3.489,U.S Dollar,US Gallon,2024-12-01
+Georgia,GA,2.902,3.312,3.716,3.444,U.S Dollar,US Gallon,2024-12-01
+Hawaii,HI,4.564,4.789,5.063,5.279,U.S Dollar,US Gallon,2024-12-01
+Iowa,IA,2.688,3.051,3.454,3.284,U.S Dollar,US Gallon,2024-12-01
+Idaho,ID,3.052,3.28,3.505,3.47,U.S Dollar,US Gallon,2024-12-01
+Illinois,IL,3.231,3.827,4.256,3.619,U.S Dollar,US Gallon,2024-12-01
+Indiana,IN,3.05,3.615,4.113,3.731,U.S Dollar,US Gallon,2024-12-01
+Kansas,KS,2.688,3.014,3.326,3.224,U.S Dollar,US Gallon,2024-12-01
+Kentucky,KY,2.794,3.319,3.728,3.289,U.S Dollar,US Gallon,2024-12-01
+Louisiana,LA,2.696,3.106,3.487,3.188,U.S Dollar,US Gallon,2024-12-01
+Massachusetts,MA,3.037,3.611,3.989,3.698,U.S Dollar,US Gallon,2024-12-01
+Maryland,MD,3.059,3.662,3.969,3.559,U.S Dollar,US Gallon,2024-12-01
+Maine,ME,3.07,3.591,4.054,3.772,U.S Dollar,US Gallon,2024-12-01
+Michigan,MI,3.084,3.676,4.227,3.671,U.S Dollar,US Gallon,2024-12-01
+Minnesota,MN,2.85,3.29,3.695,3.417,U.S Dollar,US Gallon,2024-12-01
+Missouri,MO,2.695,3.08,3.372,3.166,U.S Dollar,US Gallon,2024-12-01
+Mississippi,MS,2.603,3.014,3.395,3.123,U.S Dollar,US Gallon,2024-12-01
+Montana,MT,2.924,3.205,3.542,3.391,U.S Dollar,US Gallon,2024-12-01
+North Carolina,NC,2.842,3.275,3.663,3.428,U.S Dollar,US Gallon,2024-12-01
+North Dakota,ND,2.856,3.151,3.497,3.498,U.S Dollar,US Gallon,2024-12-01
+Nebraska,NE,2.72,2.978,3.372,3.184,U.S Dollar,US Gallon,2024-12-01
+New Hampshire,NH,2.977,3.532,3.959,3.71,U.S Dollar,US Gallon,2024-12-01
+New Jersey,NJ,2.984,3.556,3.801,3.453,U.S Dollar,US Gallon,2024-12-01
+New Mexico,NM,2.787,3.179,3.478,3.308,U.S Dollar,US Gallon,2024-12-01
+Nevada,NV,3.689,3.993,4.232,3.691,U.S Dollar,US Gallon,2024-12-01
+New York,NY,3.157,3.66,4.048,3.871,U.S Dollar,US Gallon,2024-12-01
+Ohio,OH,3.012,3.572,4.095,3.593,U.S Dollar,US Gallon,2024-12-01
+Oklahoma,OK,2.477,2.821,3.099,2.971,U.S Dollar,US Gallon,2024-12-01
+Oregon,OR,3.55,3.782,4.01,3.841,U.S Dollar,US Gallon,2024-12-01
+Pennsylvania,PA,3.233,3.668,4.019,3.966,U.S Dollar,US Gallon,2024-12-01
+Rhode Island,RI,2.949,3.624,3.955,3.698,U.S Dollar,US Gallon,2024-12-01
+South Carolina,SC,2.751,3.166,3.54,3.275,U.S Dollar,US Gallon,2024-12-01
+South Dakota,SD,2.833,3.072,3.494,3.272,U.S Dollar,US Gallon,2024-12-01
+Tennessee,TN,2.668,3.065,3.445,3.268,U.S Dollar,US Gallon,2024-12-01
+Texas,TX,2.583,2.989,3.353,3.115,U.S Dollar,US Gallon,2024-12-01
+Utah,UT,2.997,3.242,3.465,3.307,U.S Dollar,US Gallon,2024-12-01
+Virginia,VA,2.935,3.406,3.775,3.479,U.S Dollar,US Gallon,2024-12-01
+Vermont,VT,3.131,3.638,4.03,3.585,U.S Dollar,US Gallon,2024-12-01
+Washington,WA,4.008,4.25,4.486,4.359,U.S Dollar,US Gallon,2024-12-01
+Wisconsin,WI,2.784,3.299,3.782,3.33,U.S Dollar,US Gallon,2024-12-01
+West Virginia,WV,2.924,3.329,3.784,3.573,U.S Dollar,US Gallon,2024-12-01
+Wyoming,WY,2.979,3.252,3.55,3.424,U.S Dollar,US Gallon,2024-12-01
