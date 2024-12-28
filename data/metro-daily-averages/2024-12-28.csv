@@ -1,0 +1,475 @@
+State-Name,State-Abbreviation,Metro-Name,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,Anchorage,3.326,3.637,3.833,3.529,U.S Dollar,US Gallon,2024-12-28
+Alaska,AK,Fairbanks,3.222,3.461,3.666,3.551,U.S Dollar,US Gallon,2024-12-28
+Alaska,AK,Juneau,3.229,3.352,3.451,3.503,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Anniston-Oxford,2.767,3.142,3.544,3.268,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Auburn,2.656,3.018,3.471,3.246,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Birmingham,2.727,3.191,3.594,3.346,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Daphne-Fairhope-Foley,2.698,3.114,3.484,3.217,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Decatur,2.704,3.111,3.477,3.214,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Dothan,2.749,3.13,3.555,3.524,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Florence-Muscle Shoals,2.732,3.138,3.525,3.212,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Gadsden,2.693,3.133,3.528,3.236,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Huntsville,2.734,3.141,3.527,3.296,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Mobile,2.661,3.097,3.466,3.265,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Montgomery,2.714,3.149,3.566,3.273,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Russell County,2.712,3.204,3.535,3.384,U.S Dollar,US Gallon,2024-12-28
+Alabama,AL,Tuscaloosa,2.705,3.155,3.576,3.256,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Fayetteville-Springdale-Rogers,2.632,2.991,3.295,3.032,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Fort Smith (AR only),2.583,2.969,3.367,3.079,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Hot Springs,2.633,3.093,3.471,3.167,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Jonesboro,2.602,2.967,3.342,3.21,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Little Rock-North Little Rock,2.623,3.048,3.438,3.13,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Pine Bluff,2.635,3.097,3.579,3.218,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,Texarkana (AR only),2.663,3.011,3.363,3.15,U.S Dollar,US Gallon,2024-12-28
+Arkansas,AR,West Memphis,2.671,3.051,3.477,3.186,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,East Valley,3.152,3.505,3.831,3.428,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Flagstaff,3.063,3.317,3.658,3.516,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Glendale,3.019,3.367,3.671,3.339,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Lake Havasu-Kingman,3.028,3.32,3.561,3.507,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Peoria,3.056,3.39,3.733,3.398,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Phoenix Proper,3.073,3.408,3.733,3.461,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Phoenix-Mesa,3.087,3.43,3.755,3.448,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Pima County,2.935,3.266,3.591,3.433,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Prescott,3.207,3.436,3.775,3.462,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Scottsdale,3.192,3.504,3.823,3.611,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Sierra Vista-Douglas,3.15,3.453,3.731,3.502,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Tucson,2.936,3.272,3.594,3.438,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,West Valley,3.019,3.368,3.688,3.35,U.S Dollar,US Gallon,2024-12-28
+Arizona,AZ,Yuma,2.992,3.31,3.63,3.401,U.S Dollar,US Gallon,2024-12-28
+California,CA,Bakersfield,4.286,4.449,4.712,4.889,U.S Dollar,US Gallon,2024-12-28
+California,CA,Chico-Paradise,4.112,4.252,4.519,4.511,U.S Dollar,US Gallon,2024-12-28
+California,CA,El Centro,4.237,4.417,4.607,4.726,U.S Dollar,US Gallon,2024-12-28
+California,CA,Fresno,4.233,4.504,4.69,4.866,U.S Dollar,US Gallon,2024-12-28
+California,CA,Hanford-Corcoran,4.144,4.255,4.576,4.79,U.S Dollar,US Gallon,2024-12-28
+California,CA,Los Angeles-Long Beach,4.404,4.615,4.778,4.854,U.S Dollar,US Gallon,2024-12-28
+California,CA,Madera-Chowchilla,4.234,4.422,4.706,4.928,U.S Dollar,US Gallon,2024-12-28
+California,CA,Merced,4.178,4.427,4.641,4.951,U.S Dollar,US Gallon,2024-12-28
+California,CA,Modesto,4.074,4.298,4.531,4.839,U.S Dollar,US Gallon,2024-12-28
+California,CA,Napa,4.437,4.574,4.783,4.868,U.S Dollar,US Gallon,2024-12-28
+California,CA,Oakland,4.359,4.579,4.757,4.837,U.S Dollar,US Gallon,2024-12-28
+California,CA,Orange County,4.34,4.564,4.697,4.657,U.S Dollar,US Gallon,2024-12-28
+California,CA,Redding,3.982,4.112,4.32,4.573,U.S Dollar,US Gallon,2024-12-28
+California,CA,Riverside,4.275,4.519,4.691,4.749,U.S Dollar,US Gallon,2024-12-28
+California,CA,Sacramento,4.265,4.492,4.706,4.73,U.S Dollar,US Gallon,2024-12-28
+California,CA,Salinas,4.58,4.748,4.934,5.077,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Bernardino,4.306,4.516,4.709,4.77,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Diego,4.487,4.715,4.899,4.77,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Francisco,4.481,4.703,4.884,4.931,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Jose,4.306,4.527,4.678,4.88,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Luis Obispo-Atascadero-Paso Robles,4.612,4.818,4.981,5.196,U.S Dollar,US Gallon,2024-12-28
+California,CA,San Rafael,4.431,4.637,4.815,4.91,U.S Dollar,US Gallon,2024-12-28
+California,CA,Santa Barbara-Santa Maria-Lompoc,4.413,4.604,4.761,4.825,U.S Dollar,US Gallon,2024-12-28
+California,CA,Santa Cruz-Watsonville,4.579,4.808,4.989,5.069,U.S Dollar,US Gallon,2024-12-28
+California,CA,Santa Rosa,4.561,4.781,4.953,4.922,U.S Dollar,US Gallon,2024-12-28
+California,CA,Stockton-Lodi,4.145,4.402,4.588,4.676,U.S Dollar,US Gallon,2024-12-28
+California,CA,Vallejo-Fairfield,4.27,4.534,4.692,4.796,U.S Dollar,US Gallon,2024-12-28
+California,CA,Ventura,4.464,4.678,4.833,4.974,U.S Dollar,US Gallon,2024-12-28
+California,CA,Visalia-Tulare-Porterville,4.226,4.468,4.668,4.885,U.S Dollar,US Gallon,2024-12-28
+California,CA,Yolo,4.162,4.362,4.616,4.609,U.S Dollar,US Gallon,2024-12-28
+California,CA,Yuba City,4.086,4.405,4.463,4.649,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Boulder-Longmont,2.969,3.394,3.713,3.345,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Colorado Springs,2.803,3.204,3.534,3.091,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Denver,2.84,3.273,3.593,3.167,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Durango,2.978,3.3,3.565,3.25,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Fort Collins-Loveland,2.836,3.199,3.535,3.146,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Glenwood Springs,3.462,3.915,4.168,3.679,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Grand Junction (CO only),2.863,3.204,3.531,3.31,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Greeley,2.759,3.186,3.503,3.051,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Pueblo,2.805,3.196,3.525,3.2,U.S Dollar,US Gallon,2024-12-28
+Colorado,CO,Vail,3.486,3.756,4.056,3.701,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,Bridgeport,3.083,3.785,4.12,3.716,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,Hartford,3.01,3.673,4.038,3.674,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,Lower Fairfield County,3.058,3.737,4.096,3.758,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,New Haven-Meriden,3.012,3.644,3.956,3.676,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,New London-Norwich (CT only),3.009,3.538,3.909,3.606,U.S Dollar,US Gallon,2024-12-28
+Connecticut,CT,Windham,3.042,3.49,3.913,3.608,U.S Dollar,US Gallon,2024-12-28
+District of Columbia,DC,Washington (DC only),3.237,3.741,4.153,3.783,U.S Dollar,US Gallon,2024-12-28
+District of Columbia,DC,Washington (Entire Metro Average),3.013,3.522,3.893,3.578,U.S Dollar,US Gallon,2024-12-28
+Delaware,DE,Dover,2.769,3.279,3.561,3.346,U.S Dollar,US Gallon,2024-12-28
+Delaware,DE,Milford-Seaford,2.745,3.173,3.515,3.305,U.S Dollar,US Gallon,2024-12-28
+Delaware,DE,Wilmington-Newark (DE only),2.754,3.433,3.666,3.401,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Bradenton-Sarasota-Venice,3.089,3.549,3.848,3.473,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Crestview-Fort Walton Beach,2.735,3.118,3.472,3.265,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Daytona Beach,3.091,3.513,3.82,3.451,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Fort Lauderdale,3.101,3.543,3.835,3.463,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Fort Myers-Cape Coral,3.108,3.565,3.86,3.454,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Gainesville,3.138,3.589,3.93,3.55,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Homosassa Springs,3.121,3.512,3.873,3.483,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Jacksonville,3.075,3.497,3.849,3.471,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Lakeland-Winter Haven,3.112,3.528,3.859,3.468,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Melbourne-Titusville,3.098,3.554,3.869,3.505,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Miami,3.04,3.471,3.698,3.422,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Naples,3.163,3.612,3.922,3.512,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Ocala,3.135,3.544,3.901,3.505,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Orlando,3.106,3.53,3.827,3.474,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Panama City,2.79,3.205,3.556,3.34,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Pensacola,2.819,3.27,3.626,3.355,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Port St. Lucie,3.105,3.545,3.865,3.48,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Punta Gorda,3.055,3.528,3.822,3.454,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Sebastian-Vero Beach,3.098,3.545,3.815,3.529,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Sebring,3.118,3.547,3.787,3.488,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Tallahassee,2.954,3.439,3.829,3.541,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,Tampa-St. Petersburg-Clearwater,3.12,3.573,3.894,3.478,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,The Villages,3.102,3.523,3.914,3.441,U.S Dollar,US Gallon,2024-12-28
+Florida,FL,West Palm Beach-Boca Raton,3.224,3.667,4.004,3.557,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Albany,2.754,3.136,3.477,3.388,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Athens,2.92,3.338,3.668,3.48,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Atlanta,2.935,3.379,3.771,3.546,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Augusta-Aiken (GA only),2.839,3.295,3.702,3.35,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Brunswick,2.806,3.19,3.566,3.407,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Catoosa-Dade-Walker,2.713,3.134,3.534,3.233,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Columbus (GA only),2.798,3.182,3.564,3.409,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Dalton,2.756,3.167,3.502,3.367,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Gainesville,2.877,3.303,3.694,3.474,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Hinesville-Fort Stewart,2.905,3.258,3.709,3.411,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Macon,2.928,3.361,3.806,3.438,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Rome,2.845,3.314,3.759,3.396,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Savannah,2.939,3.34,3.724,3.459,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Valdosta,2.884,3.354,3.67,3.358,U.S Dollar,US Gallon,2024-12-28
+Georgia,GA,Warner Robins,2.866,3.258,3.669,3.362,U.S Dollar,US Gallon,2024-12-28
+Hawaii,HI,Hilo,4.647,4.878,5.129,5.194,U.S Dollar,US Gallon,2024-12-28
+Hawaii,HI,Honolulu,4.442,4.715,4.962,5.236,U.S Dollar,US Gallon,2024-12-28
+Hawaii,HI,Kahului,4.603,4.712,4.948,5.396,U.S Dollar,US Gallon,2024-12-28
+Hawaii,HI,Lihue (Kauai),5.157,5.435,5.595,5.576,U.S Dollar,US Gallon,2024-12-28
+Hawaii,HI,Wailuku,4.603,4.712,4.948,5.396,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Ames,2.741,3.232,3.407,3.191,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Cedar Rapids,2.744,3.179,3.556,3.369,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Council Bluffs,2.697,3.046,3.532,3.259,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Davenport-Moline-Rock Island (IA only),2.735,3.073,3.655,3.465,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Des Moines,2.673,3.071,3.409,3.244,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Dubuque,2.979,3.299,3.831,3.295,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Iowa City,2.79,3.236,3.544,3.212,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Sioux City (IA only),2.651,3.073,3.446,3.152,U.S Dollar,US Gallon,2024-12-28
+Iowa,IA,Waterloo-Cedar Falls,2.897,3.219,3.818,3.399,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Boise City,3.155,3.363,3.582,3.512,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Coeur D'Alene,2.813,3.01,3.383,3.338,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Franklin,3.082,3.43,3.519,3.438,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Idaho Falls,3.03,3.371,3.586,3.409,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Lewiston,3.111,3.33,3.586,3.564,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Pocatello,3.08,3.36,3.514,3.485,U.S Dollar,US Gallon,2024-12-28
+Idaho,ID,Twin Falls,3.099,3.379,3.628,3.499,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Alexander County,3.499,0.0,0.0,0.0,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Bloomington-Normal,3.08,3.651,3.994,3.477,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Carbondale-Marion,2.942,3.442,3.769,3.487,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Champaign-Urbana,3.006,3.564,3.904,3.391,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Chicago Metro,3.385,3.97,4.464,3.659,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,City of Chicago,3.591,4.188,4.712,4.028,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Danville,3.063,3.628,4.085,3.436,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Davenport-Moline-Rock Island (IL only),3.143,3.657,4.095,3.651,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Decatur,2.964,3.489,3.801,3.45,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,East Saint Louis,3.153,3.668,3.988,3.589,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Elgin,3.235,3.832,4.301,3.501,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Kankakee-Bradley,2.974,3.55,3.875,3.451,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Lake County,3.228,3.833,4.317,3.466,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Peoria-Pekin,3.171,3.704,4.096,3.546,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Quincy,3.001,3.373,3.801,3.183,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Rockford,3.117,3.641,4.098,3.459,U.S Dollar,US Gallon,2024-12-28
+Illinois,IL,Springfield,2.988,3.572,4.008,3.369,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Bloomington,3.079,3.615,4.112,3.722,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Clarksville,2.915,3.397,3.812,3.64,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Columbus,3.087,3.618,4.08,3.553,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Dearborn-Franklin-Ohio-Union,3.011,3.483,4.015,3.563,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Elkhart,2.906,3.521,4.004,3.598,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Evansville,2.745,3.199,3.546,3.596,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Fort Wayne,3.061,3.638,4.191,3.615,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Gary,2.974,3.532,4.039,3.631,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Indianapolis,3.044,3.628,4.16,3.651,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Kokomo,3.009,3.572,4.083,3.526,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Lafayette,3.152,3.704,4.196,3.615,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Michigan City-La Porte,3.098,3.677,4.208,3.645,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Muncie,2.981,3.528,4.083,3.666,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,South Bend,2.988,3.542,4.075,3.66,U.S Dollar,US Gallon,2024-12-28
+Indiana,IN,Terre Haute,3.059,3.59,4.006,3.712,U.S Dollar,US Gallon,2024-12-28
+Kansas,KS,Kansas City (KS only),2.727,3.054,3.379,3.194,U.S Dollar,US Gallon,2024-12-28
+Kansas,KS,Lawrence,2.714,3.067,3.456,3.199,U.S Dollar,US Gallon,2024-12-28
+Kansas,KS,Manhattan,2.653,3.037,3.32,3.044,U.S Dollar,US Gallon,2024-12-28
+Kansas,KS,Topeka,2.638,2.969,3.299,3.223,U.S Dollar,US Gallon,2024-12-28
+Kansas,KS,Wichita,2.652,2.918,3.143,3.182,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Bowling Green,2.633,3.105,3.485,3.146,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Covington,2.919,3.46,3.893,3.099,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Elizabethtown-Fort Knox,2.678,3.167,3.631,3.053,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Henderson,2.607,3.015,3.469,3.21,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Hopkinsville,2.692,3.112,3.495,3.318,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Huntington-Ashland (KY only),2.857,3.43,3.831,3.542,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Lexington,2.775,3.313,3.694,3.188,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Louisville (KY only),2.803,3.322,3.772,3.192,U.S Dollar,US Gallon,2024-12-28
+Kentucky,KY,Owensboro,2.59,3.127,3.557,3.299,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Alexandria,2.661,3.068,3.513,3.309,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Baton Rouge,2.697,3.11,3.496,3.186,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Hammond,2.645,3.107,3.47,3.132,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Houma-Thibodaux,2.759,3.157,3.5,3.25,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Lafayette,2.713,3.095,3.509,3.191,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Lake Charles,2.705,3.132,3.584,3.066,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Monroe,2.531,2.943,3.327,3.101,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,New Orleans,2.725,3.25,3.624,3.264,U.S Dollar,US Gallon,2024-12-28
+Louisiana,LA,Shreveport-Bossier City,2.611,2.989,3.352,3.122,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Barnstable-Yarmouth,3.081,3.629,3.992,3.789,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Boston (MA only),3.026,3.634,3.965,3.742,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Cambridge-Newton-Framingham,3.065,3.635,4.014,3.771,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Pittsfield,3.067,3.723,4.018,3.54,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Seekonk,2.917,3.493,3.819,3.612,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Springfield,2.955,3.501,3.869,3.558,U.S Dollar,US Gallon,2024-12-28
+Massachusetts,MA,Worcester,3.007,3.628,3.992,3.596,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Annapolis,2.858,3.516,3.814,3.393,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Baltimore,2.848,3.403,3.738,3.371,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Bowie-St. Charles,2.91,3.673,3.952,3.507,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Cumberland (MD Only),3.091,3.494,3.915,3.554,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Frederick,2.969,3.449,3.753,3.455,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Hagerstown,2.953,3.409,3.779,3.646,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Salisbury,2.816,3.281,3.65,3.356,U.S Dollar,US Gallon,2024-12-28
+Maryland,MD,Washington (MD only),3.03,3.632,3.951,3.614,U.S Dollar,US Gallon,2024-12-28
+Maine,ME,Bangor,3.028,3.506,4.019,3.814,U.S Dollar,US Gallon,2024-12-28
+Maine,ME,Lewiston-Auburn,3.073,3.63,4.016,3.916,U.S Dollar,US Gallon,2024-12-28
+Maine,ME,Portland,3.028,3.548,3.977,3.768,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Ann Arbor,3.052,3.741,4.293,3.639,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Benton Harbor,2.949,3.486,4.032,3.553,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Flint,3.0,3.547,4.098,3.446,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Grand Rapids-Muskegon-Holland,3.055,3.617,4.172,3.487,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Jackson,3.052,3.711,4.339,3.553,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Lansing-East Lansing,3.036,3.578,4.118,3.622,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Marquette,2.949,3.411,3.947,3.597,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Metro Detroit,3.033,3.679,4.27,3.677,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Saginaw-Bay City-Midland,3.029,3.552,4.118,3.469,U.S Dollar,US Gallon,2024-12-28
+Michigan,MI,Traverse City,2.895,3.386,3.99,3.705,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Duluth-Superior (MN only),2.761,3.248,3.638,3.441,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Houston County,2.882,0.0,3.849,3.399,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Mankato,2.877,3.301,3.76,3.26,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Minneapolis-St. Paul (MN only),2.906,3.366,3.761,3.476,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Moorhead,2.826,3.126,3.566,3.441,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Polk County,2.716,2.896,3.372,3.29,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,Rochester,2.939,3.504,3.808,3.371,U.S Dollar,US Gallon,2024-12-28
+Minnesota,MN,St. Cloud,2.712,3.127,3.522,3.215,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Cape Girardeau,2.674,2.896,3.313,3.275,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Columbia,2.913,3.329,3.486,3.199,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Jefferson City,2.827,3.11,3.409,3.194,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Joplin,2.505,2.872,3.198,3.071,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Kansas City (MO only),2.732,3.056,3.358,3.193,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,Springfield,2.622,2.938,3.257,3.076,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,St. Joseph,2.673,3.009,3.316,3.111,U.S Dollar,US Gallon,2024-12-28
+Missouri,MO,St. Louis (MO only),2.857,3.232,3.519,3.149,U.S Dollar,US Gallon,2024-12-28
+Mississippi,MS,Biloxi-Gulfport-Pascagoula,2.531,2.89,3.261,3.056,U.S Dollar,US Gallon,2024-12-28
+Mississippi,MS,Hattiesburg,2.504,2.906,3.3,3.017,U.S Dollar,US Gallon,2024-12-28
+Mississippi,MS,Jackson,2.618,3.032,3.4,3.096,U.S Dollar,US Gallon,2024-12-28
+Mississippi,MS,South Haven - Olive Branch,2.576,3.104,3.461,3.188,U.S Dollar,US Gallon,2024-12-28
+Montana,MT,Billings,2.709,3.065,3.433,3.062,U.S Dollar,US Gallon,2024-12-28
+Montana,MT,Great Falls,2.691,3.002,3.298,3.061,U.S Dollar,US Gallon,2024-12-28
+Montana,MT,Missoula,2.735,3.014,3.303,3.11,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Asheville,2.843,3.275,3.661,3.455,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Burlington,2.85,3.338,3.73,3.438,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Charlotte-Gastonia-Rock Hill (NC only),2.87,3.319,3.671,3.409,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Durham-Chapel Hill,2.969,3.401,3.78,3.538,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Fayetteville,2.807,3.251,3.651,3.362,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Goldsboro,2.812,3.3,3.691,3.274,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Greensboro,2.85,3.31,3.698,3.424,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Hickory-Lenoir-Morganton,2.75,3.196,3.585,3.32,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Jacksonville,2.746,3.157,3.546,3.329,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,New Bern,2.759,3.189,3.557,3.303,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Norfolk-Virginia Beach-Newport News,2.855,3.125,3.593,3.318,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Raleigh,2.879,3.305,3.667,3.505,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Rocky Mount,2.818,3.218,3.617,3.33,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Wilmington,2.796,3.225,3.662,3.368,U.S Dollar,US Gallon,2024-12-28
+North Carolina,NC,Winston-Salem,2.853,3.325,3.715,3.386,U.S Dollar,US Gallon,2024-12-28
+North Dakota,ND,Bismarck,2.833,3.072,3.493,3.399,U.S Dollar,US Gallon,2024-12-28
+North Dakota,ND,Fargo-Moorhead (ND only),2.747,3.094,3.483,3.305,U.S Dollar,US Gallon,2024-12-28
+North Dakota,ND,Grand Forks (ND only),2.664,2.919,3.321,3.445,U.S Dollar,US Gallon,2024-12-28
+North Dakota,ND,Minot,2.846,3.148,3.417,3.364,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Columbus,2.662,2.799,3.446,3.254,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Grand Island,2.798,2.961,3.485,3.187,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Kearney,2.822,3.043,3.509,3.168,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Lincoln,2.787,3.043,3.579,3.185,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Norfolk,2.678,3.058,3.521,3.163,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,North Platte,3.05,3.073,3.593,3.21,U.S Dollar,US Gallon,2024-12-28
+Nebraska,NE,Omaha (NE only),2.752,3.104,3.503,3.192,U.S Dollar,US Gallon,2024-12-28
+New Hampshire,NH,Manchester,2.953,3.601,3.967,3.694,U.S Dollar,US Gallon,2024-12-28
+New Hampshire,NH,Portsmouth-Rochester (NH only),2.852,3.387,3.815,3.63,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Atlantic City,2.862,3.357,3.582,3.418,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Bergen-Passaic,2.941,3.561,3.813,3.46,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Cape May,2.944,3.396,3.621,3.48,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Middlesex-Somerset-Hunterdon,2.936,3.507,3.796,3.415,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Monmouth-Ocean,2.94,3.471,3.727,3.483,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Newark,2.976,3.579,3.885,3.51,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Parsippany-Troy Hills,2.93,3.529,3.801,3.462,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Philadelphia (NJ Only),2.844,3.375,3.575,3.399,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Trenton,2.916,3.54,3.834,3.512,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Vineland,2.865,3.387,3.521,3.4,U.S Dollar,US Gallon,2024-12-28
+New Jersey,NJ,Warren County,2.844,3.374,3.726,3.407,U.S Dollar,US Gallon,2024-12-28
+New Mexico,NM,Albuquerque,2.749,3.187,3.498,3.172,U.S Dollar,US Gallon,2024-12-28
+New Mexico,NM,Farmington,2.924,3.254,3.517,3.297,U.S Dollar,US Gallon,2024-12-28
+New Mexico,NM,Las Cruces,2.881,3.372,3.699,3.25,U.S Dollar,US Gallon,2024-12-28
+New Mexico,NM,Santa Fe,2.679,3.116,3.409,3.239,U.S Dollar,US Gallon,2024-12-28
+Nevada,NV,Las Vegas (NV only),3.624,3.96,4.217,3.679,U.S Dollar,US Gallon,2024-12-28
+Nevada,NV,Reno,3.841,4.025,4.214,3.678,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Albany-Schenectady-Troy,3.083,3.626,4.063,3.719,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Batavia,3.218,3.695,4.02,3.964,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Binghamton,3.099,3.582,3.966,3.922,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Buffalo-Niagara Falls,3.129,3.595,3.993,3.935,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Dutchess-Putnam County,3.101,3.708,4.101,3.673,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Elmira,3.071,3.478,3.77,3.754,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Glens Falls,3.222,3.706,4.147,3.727,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Ithaca,3.331,3.767,4.11,3.908,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Kingston,3.033,3.524,3.97,3.658,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Nassau-Suffolk,2.989,3.512,3.846,3.706,U.S Dollar,US Gallon,2024-12-28
+New York,NY,New York,3.092,3.596,3.973,4.044,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Rochester,3.225,3.703,4.062,4.042,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Syracuse,3.137,3.608,3.982,3.878,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Utica-Rome,3.303,3.813,4.228,3.846,U.S Dollar,US Gallon,2024-12-28
+New York,NY,Watertown-Fort Drum,3.123,3.586,4.029,3.888,U.S Dollar,US Gallon,2024-12-28
+New York,NY,White Plains,3.226,3.865,4.237,3.999,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Akron,2.975,3.486,3.987,3.388,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Belmont County,2.953,3.497,4.023,3.537,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Canton-Massillon,2.966,3.49,3.994,3.429,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Cincinnati (OH only),2.987,3.53,4.05,3.496,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Cleveland-Lorain-Elyria,3.02,3.597,4.105,3.56,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Columbus,3.089,3.629,4.149,3.593,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Dayton,2.965,3.542,4.058,3.409,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Lawerence County,2.979,3.599,4.169,3.612,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Lima,2.927,3.518,4.048,3.301,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Mansfield,3.062,3.632,4.168,3.503,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Springfield,3.03,3.603,4.077,3.319,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Steubenville-Weirton (OH only),3.044,3.557,4.108,3.595,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Toledo,2.932,3.459,3.999,3.438,U.S Dollar,US Gallon,2024-12-28
+Ohio,OH,Youngstown-Warren,2.929,3.506,3.998,3.54,U.S Dollar,US Gallon,2024-12-28
+Oklahoma,OK,Lawton,2.515,2.884,3.159,3.007,U.S Dollar,US Gallon,2024-12-28
+Oklahoma,OK,Le Flore-Sequoyah,2.67,3.003,3.398,3.162,U.S Dollar,US Gallon,2024-12-28
+Oklahoma,OK,Oklahoma City,2.504,2.961,3.219,2.894,U.S Dollar,US Gallon,2024-12-28
+Oklahoma,OK,Tulsa,2.662,2.971,3.245,3.026,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Albany,3.225,3.418,3.661,3.559,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Bend,3.244,3.377,3.638,3.619,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Corvallis,3.116,3.28,3.493,3.47,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Eugene-Springfield,3.32,3.505,3.713,3.676,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Grants Pass,3.634,3.81,4.012,3.811,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Medford-Ashland,3.491,3.694,3.976,3.692,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Pendleton,3.214,3.497,3.862,3.52,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Portland-Vancouver (OR only),3.623,3.88,4.113,3.898,U.S Dollar,US Gallon,2024-12-28
+Oregon,OR,Salem,3.313,3.486,3.772,3.831,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Allentown-Bethlehem-Easton,3.094,3.554,3.896,3.766,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Altoona,3.29,3.705,4.082,3.985,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Bloomsburg-Berwick,3.124,3.539,3.918,3.808,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Chambersburg-Waynesboro,3.266,3.699,4.093,4.011,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,East Stroudsburg,3.099,3.593,3.968,3.767,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Erie,3.328,3.724,4.099,4.174,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Gettysburg,3.241,3.727,4.106,3.988,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Harrisburg,3.194,3.648,4.012,4.061,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Johnstown,3.361,3.763,4.146,4.163,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Lancaster,3.21,3.622,3.97,3.889,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Lebanon,3.242,3.694,4.076,3.97,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Mercer County,3.301,3.756,4.095,4.071,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Philadelphia (PA only),3.061,3.553,3.833,3.743,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Pittsburgh,3.336,3.76,4.157,4.01,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Reading,3.19,3.625,3.944,3.731,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Scranton--Wilkes-Barre--Hazleton,3.182,3.603,3.987,3.974,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,State College,3.289,3.73,4.075,4.125,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,Williamsport,3.177,3.598,4.01,4.114,U.S Dollar,US Gallon,2024-12-28
+Pennsylvania,PA,York,3.183,3.603,3.977,3.983,U.S Dollar,US Gallon,2024-12-28
+Rhode Island,RI,Providence-Fall River-Warwick (RI only),2.945,3.632,3.956,3.696,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Aiken-Edgfield County,2.772,3.223,3.627,3.299,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Charleston-North Charleston,2.752,3.182,3.558,3.292,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Columbia,2.763,3.196,3.567,3.249,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Florence,2.707,3.18,3.602,3.331,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Greenville,2.713,3.102,3.422,3.211,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Hilton Head-Bluffton,2.774,3.269,3.659,3.343,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Myrtle Beach,2.684,3.12,3.505,3.244,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Rock Hill,2.764,3.174,3.519,3.335,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Spartanburg,2.704,3.151,3.497,3.254,U.S Dollar,US Gallon,2024-12-28
+South Carolina,SC,Sumter,2.767,3.211,3.573,3.296,U.S Dollar,US Gallon,2024-12-28
+South Dakota,SD,North Sioux City,2.736,2.666,3.421,3.079,U.S Dollar,US Gallon,2024-12-28
+South Dakota,SD,Rapid City,2.977,3.119,3.589,3.398,U.S Dollar,US Gallon,2024-12-28
+South Dakota,SD,Sioux Falls,2.575,3.005,3.426,2.963,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Chattanooga (TN only),2.626,3.001,3.385,3.065,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Clarksville-Hopkinsville (TN only),2.605,3.023,3.362,3.164,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Cleveland,2.646,3.003,3.38,3.227,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Jackson,2.731,3.162,3.583,3.444,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Johnson City,2.69,3.108,3.503,3.31,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Kingsport-Bristol,2.619,3.029,3.39,3.299,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Knoxville,2.587,2.969,3.366,3.174,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Memphis (TN only),2.719,3.227,3.576,3.381,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Morristown,2.599,2.98,3.367,3.253,U.S Dollar,US Gallon,2024-12-28
+Tennessee,TN,Nashville,2.766,3.212,3.596,3.297,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Abilene,2.509,2.846,3.149,3.001,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Amarillo,2.522,2.849,3.18,2.939,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Austin-San Marcos,2.631,3.077,3.429,3.018,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Beaumont-Port Arthur,2.583,3.05,3.45,3.023,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Brownsville-Harlingen,2.552,2.991,3.338,3.147,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,College Station-Bryan,2.61,3.07,3.447,3.06,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Corpus Christi,2.605,3.011,3.332,3.107,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Dallas,2.692,3.097,3.432,3.195,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,El Paso,2.802,3.277,3.591,3.161,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Fort Worth-Arlington,2.694,3.09,3.422,3.18,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Galveston-Texas City,2.605,3.155,3.462,3.028,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Houston,2.586,3.133,3.547,3.022,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Killeen-Temple-Fort Hood,2.482,2.816,3.126,2.955,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Laredo,2.605,3.048,3.417,3.099,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Longview,2.593,2.996,3.368,3.046,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Lubbock,2.419,2.804,3.099,2.899,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,McAllen-Edinburg-Mission,2.543,2.988,3.347,3.113,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Midland,2.681,3.196,3.467,3.178,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Odessa,2.608,3.131,3.393,3.202,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,San Angelo,2.689,3.116,3.399,3.177,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,San Antonio,2.618,3.047,3.41,2.984,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Sherman-Denison,2.613,2.962,3.259,3.154,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Texarkana (TX only),2.591,2.96,3.35,3.085,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Tyler,2.536,2.925,3.278,3.016,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Victoria,2.58,2.962,3.329,3.064,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Waco,2.488,2.841,3.166,2.988,U.S Dollar,US Gallon,2024-12-28
+Texas,TX,Wichita Falls,2.521,2.908,3.228,2.944,U.S Dollar,US Gallon,2024-12-28
+Utah,UT,Logan,2.986,3.221,3.409,3.397,U.S Dollar,US Gallon,2024-12-28
+Utah,UT,Ogden,2.999,3.27,3.486,3.379,U.S Dollar,US Gallon,2024-12-28
+Utah,UT,Provo-Orem,2.999,3.253,3.465,3.394,U.S Dollar,US Gallon,2024-12-28
+Utah,UT,Salt Lake City,3.022,3.294,3.516,3.428,U.S Dollar,US Gallon,2024-12-28
+Utah,UT,St. George,3.083,3.309,3.478,3.413,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Blacksburg-Christiansburg-Radford,2.945,3.419,3.777,3.421,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Bristol-Scott-Washington,2.805,3.182,3.58,3.4,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Charlottesville,2.93,3.389,3.77,3.417,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Fredericksburg,2.844,3.259,3.609,3.35,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Harrisonburg,2.968,3.398,3.77,3.472,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Lynchburg,2.867,3.302,3.707,3.483,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Norfolk-Virginia Beach-Newport News,2.781,3.254,3.607,3.418,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Richmond-Petersburg,2.895,3.398,3.741,3.39,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Roanoke,2.872,3.324,3.723,3.501,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Staunton-Waynesboro,2.948,3.383,3.768,3.481,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,"Washington, DC, (VA Only)",2.976,3.468,3.847,3.546,U.S Dollar,US Gallon,2024-12-28
+Virginia,VA,Winchester,2.896,3.319,3.654,3.409,U.S Dollar,US Gallon,2024-12-28
+Vermont,VT,Burlington,3.179,3.687,4.08,3.599,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Bellingham,3.779,4.109,4.427,4.01,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Bremerton,4.056,4.289,4.508,4.453,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Clarkson,3.432,0.0,3.724,3.399,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Longview,3.889,4.107,4.251,4.222,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Mount Vernon-Anacortes,3.698,3.779,4.16,3.904,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Olympia,3.85,4.059,4.331,4.472,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Richland-Kennewick-Pasco,3.564,3.8,4.041,4.112,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Seattle-Bellevue-Everett,4.147,4.408,4.618,4.517,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Spokane,3.484,3.699,3.939,3.967,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Tacoma,3.944,4.198,4.433,4.409,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Vancouver,3.837,4.066,4.237,4.033,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Walla Walla,3.955,4.141,4.276,4.303,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Wenatchee,3.658,3.792,4.02,4.065,U.S Dollar,US Gallon,2024-12-28
+Washington,WA,Yakima,3.583,3.924,4.078,4.115,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Appleton,2.766,3.317,3.743,3.256,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Eau Claire,2.71,3.02,3.679,3.274,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Fond du Lac,2.736,3.209,3.779,3.224,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Green Bay,2.714,3.187,3.715,3.256,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Janesville-Beloit,2.768,3.249,3.73,3.237,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Kenosha County,2.769,3.36,3.831,3.587,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,La Crosse (WI only),2.806,3.124,3.781,3.209,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Madison,2.791,3.343,3.806,3.347,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Milwaukee-Waukesha,2.737,3.245,3.724,3.291,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Oshkosh,2.729,3.214,3.744,3.276,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Pierce -St. Croix County,2.858,3.294,3.775,3.441,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Racine,2.75,3.239,3.691,3.376,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Sheboygan,2.759,3.325,3.771,3.264,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Superior,2.792,3.169,3.748,3.321,U.S Dollar,US Gallon,2024-12-28
+Wisconsin,WI,Wausau,2.637,3.243,3.612,3.175,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Beckley,2.917,3.319,3.749,3.603,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Charleston,2.871,3.306,3.806,3.454,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Hampshire County,3.091,3.494,3.894,3.484,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Huntington,2.887,3.351,3.84,3.627,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Jefferson County,2.943,3.356,3.767,3.667,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Mineral County,2.923,3.299,3.809,3.419,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Morgantown,2.945,3.374,3.789,3.558,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Parkersburg-Marietta (WV only),2.78,3.211,3.666,3.503,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Steubenville-Weirton (WV only),2.93,3.428,3.907,3.643,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,"Washington, DC (WV Only)",3.042,3.433,3.849,3.662,U.S Dollar,US Gallon,2024-12-28
+West Virginia,WV,Wheeling (WV only),2.87,3.291,3.7,3.395,U.S Dollar,US Gallon,2024-12-28
+Wyoming,WY,Casper,2.643,2.977,3.3,3.166,U.S Dollar,US Gallon,2024-12-28
+Wyoming,WY,Cheyenne,2.877,3.163,3.462,3.339,U.S Dollar,US Gallon,2024-12-28
