@@ -45,6 +45,8 @@ UNIT = "US Gallon"
 
 DRIVER_WAIT_TIME_MAXIMUM = 10
 
+EXPAND_ACCORDION_WAIT_TIME = 2
+
 NEXT_PAGE_WAIT_TIME = 2
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -141,6 +143,7 @@ for state_name, state_abbreviation, state_url in states:
     # expand all metro accordions
     expand_accordion = chrome_driver.find_element(By.CSS_SELECTOR, METROS_ACCORDION_EXPAND_CSS_SELECTOR)
     expand_accordion.click()
+    time.sleep(EXPAND_ACCORDION_WAIT_TIME)
 
     # state metro names
     metro_names = chrome_driver.find_elements(By.CSS_SELECTOR, METROS_NAME_CSS_SELECTOR)
