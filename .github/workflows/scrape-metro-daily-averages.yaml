@@ -15,16 +15,16 @@ jobs:
     steps:
     - name: Checkout codes
       id: checkout-codes
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6.0.0
       with:
         persist-credentials: false
         fetch-depth: 0
 
     - name: Set up Python
       id: setup-python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6.1.0
       with:
-        python-version: 3.8
+        python-version: 3.10.19
         architecture: x64
 
     - name: Choose Chrome version
@@ -39,7 +39,7 @@ jobs:
 
     - name: Set up Chrome and ChromeDriver
       id: setup-chrome
-      uses: browser-actions/setup-chrome@v1
+      uses: browser-actions/setup-chrome@v2.1.0
       with:
         chrome-version: ${{ env.chrome_version }}
         install-dependencies: true
@@ -83,7 +83,7 @@ jobs:
     - name: Push changes
       id: push-changes
       if: ${{ env.has_changes == 'true' }}
-      uses: ad-m/github-push-action@v0.8.0
+      uses: ad-m/github-push-action@v1.0.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref_name }}

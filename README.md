@@ -6,7 +6,7 @@ Python scripts that scrape US gas prices.
 
 ## Requirements
 
-- [Python 3.8.17+](https://www.python.org/)
+- [Python 3.10.19+](https://www.python.org/)
 - [pip 24.2+](https://github.com/pypa/pip)
 - [selenium 4.14.0+](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
 - [webdriver-manager 4.0.2+](https://github.com/SergeyPirogov/webdriver_manager)
