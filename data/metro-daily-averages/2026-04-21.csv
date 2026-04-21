@@ -1,0 +1,475 @@
+State-Name,State-Abbreviation,Metro-Name,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,Anchorage,4.618,4.866,5.154,5.948,U.S Dollar,US Gallon,2026-04-21
+Alaska,AK,Fairbanks,4.617,4.824,5.057,5.86,U.S Dollar,US Gallon,2026-04-21
+Alaska,AK,Juneau,4.428,4.555,4.669,5.676,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Anniston-Oxford,3.763,4.191,4.583,5.189,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Auburn,3.675,4.087,4.521,5.179,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Birmingham,3.698,4.163,4.574,5.253,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Daphne-Fairhope-Foley,3.682,4.137,4.568,5.212,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Decatur,3.771,4.258,4.601,5.338,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Dothan,3.765,4.127,4.512,5.377,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Florence-Muscle Shoals,3.779,4.194,4.621,5.269,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Gadsden,3.683,4.162,4.602,5.294,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Huntsville,3.82,4.277,4.643,5.384,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Mobile,3.654,4.135,4.503,5.173,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Montgomery,3.771,4.206,4.637,5.257,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Russell County,3.785,4.316,4.774,5.324,U.S Dollar,US Gallon,2026-04-21
+Alabama,AL,Tuscaloosa,3.714,4.176,4.564,5.284,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Fayetteville-Springdale-Rogers,3.389,3.753,4.043,4.88,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Fort Smith (AR only),3.394,3.771,4.106,4.942,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Hot Springs,3.594,4.123,4.558,5.179,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Jonesboro,3.599,3.909,4.478,5.114,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Little Rock-North Little Rock,3.579,4.083,4.426,5.063,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Pine Bluff,3.652,4.047,4.59,4.987,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,Texarkana (AR only),3.768,4.261,4.557,5.173,U.S Dollar,US Gallon,2026-04-21
+Arkansas,AR,West Memphis,3.701,4.206,4.739,5.155,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,East Valley,4.72,5.118,5.419,5.822,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Flagstaff,4.599,4.914,5.237,5.954,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Glendale,4.699,5.125,5.394,5.874,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Lake Havasu-Kingman,4.439,4.712,5.1,6.085,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Peoria,4.719,5.115,5.468,5.88,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Phoenix Proper,4.706,5.119,5.431,5.845,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Phoenix-Mesa,4.689,5.1,5.407,5.859,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Pima County,4.367,4.761,5.058,5.814,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Prescott,4.409,4.744,5.045,5.954,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Scottsdale,4.826,5.211,5.517,5.972,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Sierra Vista-Douglas,4.396,4.69,4.995,5.881,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Tucson,4.378,4.774,5.073,5.814,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,West Valley,4.69,5.096,5.387,5.87,U.S Dollar,US Gallon,2026-04-21
+Arizona,AZ,Yuma,4.484,4.827,5.134,5.997,U.S Dollar,US Gallon,2026-04-21
+California,CA,Bakersfield,5.83,6.091,6.278,7.452,U.S Dollar,US Gallon,2026-04-21
+California,CA,Chico-Paradise,5.672,5.875,6.104,7.23,U.S Dollar,US Gallon,2026-04-21
+California,CA,El Centro,5.543,5.71,5.965,7.334,U.S Dollar,US Gallon,2026-04-21
+California,CA,Fresno,5.728,5.959,6.189,7.459,U.S Dollar,US Gallon,2026-04-21
+California,CA,Hanford-Corcoran,5.572,5.834,6.043,7.294,U.S Dollar,US Gallon,2026-04-21
+California,CA,Los Angeles-Long Beach,5.922,6.15,6.313,7.616,U.S Dollar,US Gallon,2026-04-21
+California,CA,Madera-Chowchilla,5.865,6.158,6.433,7.508,U.S Dollar,US Gallon,2026-04-21
+California,CA,Merced,5.747,6.002,6.232,7.553,U.S Dollar,US Gallon,2026-04-21
+California,CA,Modesto,5.614,5.869,6.103,7.506,U.S Dollar,US Gallon,2026-04-21
+California,CA,Napa,5.96,6.177,6.335,7.565,U.S Dollar,US Gallon,2026-04-21
+California,CA,Oakland,5.884,6.124,6.32,7.612,U.S Dollar,US Gallon,2026-04-21
+California,CA,Orange County,5.847,6.08,6.228,7.455,U.S Dollar,US Gallon,2026-04-21
+California,CA,Redding,5.661,5.833,6.044,7.357,U.S Dollar,US Gallon,2026-04-21
+California,CA,Riverside,5.757,5.988,6.173,7.479,U.S Dollar,US Gallon,2026-04-21
+California,CA,Sacramento,5.734,5.992,6.201,7.48,U.S Dollar,US Gallon,2026-04-21
+California,CA,Salinas,5.968,6.169,6.413,7.642,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Bernardino,5.809,6.026,6.199,7.493,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Diego,5.852,6.085,6.275,7.476,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Francisco,5.962,6.19,6.382,7.777,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Jose,5.8,6.054,6.223,7.591,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Luis Obispo-Atascadero-Paso Robles,5.971,6.149,6.363,7.734,U.S Dollar,US Gallon,2026-04-21
+California,CA,San Rafael,5.948,6.207,6.406,7.651,U.S Dollar,US Gallon,2026-04-21
+California,CA,Santa Barbara-Santa Maria-Lompoc,5.722,5.923,6.099,7.555,U.S Dollar,US Gallon,2026-04-21
+California,CA,Santa Cruz-Watsonville,5.836,6.04,6.272,7.496,U.S Dollar,US Gallon,2026-04-21
+California,CA,Santa Rosa,5.972,6.185,6.378,7.709,U.S Dollar,US Gallon,2026-04-21
+California,CA,Stockton-Lodi,5.647,5.871,6.084,7.385,U.S Dollar,US Gallon,2026-04-21
+California,CA,Vallejo-Fairfield,5.76,6.032,6.213,7.505,U.S Dollar,US Gallon,2026-04-21
+California,CA,Ventura,5.858,6.088,6.252,7.454,U.S Dollar,US Gallon,2026-04-21
+California,CA,Visalia-Tulare-Porterville,5.769,6.01,6.23,7.473,U.S Dollar,US Gallon,2026-04-21
+California,CA,Yolo,5.658,5.876,6.077,7.388,U.S Dollar,US Gallon,2026-04-21
+California,CA,Yuba City,5.434,5.738,5.951,7.244,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Boulder-Longmont,3.864,4.343,4.616,5.075,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Colorado Springs,3.761,4.168,4.498,4.949,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Denver,3.806,4.251,4.577,5.005,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Durango,4.191,4.454,4.699,5.354,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Fort Collins-Loveland,3.852,4.262,4.583,4.929,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Glenwood Springs,4.312,4.881,5.034,5.359,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Grand Junction (CO only),3.972,4.303,4.651,5.069,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Greeley,3.766,4.144,4.47,4.933,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Pueblo,3.76,4.161,4.505,4.895,U.S Dollar,US Gallon,2026-04-21
+Colorado,CO,Vail,4.301,4.649,4.937,5.333,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,Bridgeport,4.119,4.705,5.114,5.903,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,Hartford,4.033,4.6,4.999,5.841,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,Lower Fairfield County,4.081,4.673,5.078,5.909,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,New Haven-Meriden,4.004,4.552,4.92,5.832,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,New London-Norwich (CT only),4.025,4.544,4.963,5.825,U.S Dollar,US Gallon,2026-04-21
+Connecticut,CT,Windham,4.087,4.595,4.972,5.822,U.S Dollar,US Gallon,2026-04-21
+District of Columbia,DC,Washington (DC only),4.274,4.848,5.213,5.857,U.S Dollar,US Gallon,2026-04-21
+District of Columbia,DC,Washington (Entire Metro Average),4.022,4.545,4.905,5.769,U.S Dollar,US Gallon,2026-04-21
+Delaware,DE,Dover,3.935,4.451,4.777,5.737,U.S Dollar,US Gallon,2026-04-21
+Delaware,DE,Milford-Seaford,3.957,4.39,4.752,5.738,U.S Dollar,US Gallon,2026-04-21
+Delaware,DE,Wilmington-Newark (DE only),3.853,4.563,4.821,5.684,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Bradenton-Sarasota-Venice,3.905,4.396,4.719,5.391,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Crestview-Fort Walton Beach,3.742,4.186,4.609,5.299,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Daytona Beach,3.953,4.415,4.762,5.573,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Fort Lauderdale,4.037,4.504,4.811,5.514,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Fort Myers-Cape Coral,3.959,4.431,4.746,5.453,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Gainesville,4.007,4.48,4.858,5.544,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Homosassa Springs,4.012,4.434,4.795,5.501,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Jacksonville,3.964,4.426,4.794,5.532,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Lakeland-Winter Haven,3.943,4.385,4.751,5.4,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Melbourne-Titusville,3.916,4.385,4.728,5.522,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Miami,3.996,4.424,4.679,5.415,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Naples,4.056,4.543,4.868,5.617,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Ocala,3.947,4.353,4.744,5.383,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Orlando,3.888,4.319,4.658,5.513,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Panama City,3.697,4.105,4.532,5.258,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Pensacola,3.715,4.193,4.585,5.204,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Port St. Lucie,3.953,4.456,4.775,5.515,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Punta Gorda,3.891,4.409,4.748,5.472,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Sebastian-Vero Beach,4.011,4.483,4.845,5.578,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Sebring,3.985,4.441,4.779,5.424,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Tallahassee,3.942,4.406,4.801,5.341,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,Tampa-St. Petersburg-Clearwater,3.921,4.39,4.731,5.351,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,The Villages,3.857,4.285,4.678,5.263,U.S Dollar,US Gallon,2026-04-21
+Florida,FL,West Palm Beach-Boca Raton,4.13,4.603,4.94,5.536,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Albany,3.481,3.914,4.28,5.261,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Athens,3.522,3.917,4.352,5.007,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Atlanta,3.615,4.083,4.523,5.045,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Augusta-Aiken (GA only),3.529,3.993,4.382,5.245,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Brunswick,3.428,3.852,4.194,5.021,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Catoosa-Dade-Walker,3.489,3.923,4.319,5.164,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Columbus (GA only),3.492,3.9,4.325,5.134,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Dalton,3.438,3.911,4.231,4.981,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Gainesville,3.555,3.987,4.436,4.979,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Hinesville-Fort Stewart,3.443,3.734,4.207,5.143,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Macon,3.684,4.146,4.561,5.226,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Rome,3.527,4.003,4.422,5.116,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Savannah,3.653,4.117,4.511,5.173,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Valdosta,3.675,4.133,4.527,5.18,U.S Dollar,US Gallon,2026-04-21
+Georgia,GA,Warner Robins,3.56,3.979,4.373,5.16,U.S Dollar,US Gallon,2026-04-21
+Hawaii,HI,Hilo,5.665,5.906,6.22,7.164,U.S Dollar,US Gallon,2026-04-21
+Hawaii,HI,Honolulu,5.628,5.908,6.17,6.936,U.S Dollar,US Gallon,2026-04-21
+Hawaii,HI,Kahului,5.606,5.903,6.142,7.778,U.S Dollar,US Gallon,2026-04-21
+Hawaii,HI,Lihue (Kauai),5.965,6.226,6.459,7.299,U.S Dollar,US Gallon,2026-04-21
+Hawaii,HI,Wailuku,5.606,5.903,6.142,7.778,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Ames,3.522,3.849,4.265,4.836,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Cedar Rapids,3.529,3.831,4.394,4.919,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Council Bluffs,3.478,3.762,4.31,4.928,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Davenport-Moline-Rock Island (IA only),3.493,3.833,4.486,5.09,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Des Moines,3.492,3.895,4.291,4.886,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Dubuque,3.639,3.679,4.615,5.064,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Iowa City,3.564,3.999,4.42,4.93,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Sioux City (IA only),3.423,3.662,4.238,4.926,U.S Dollar,US Gallon,2026-04-21
+Iowa,IA,Waterloo-Cedar Falls,3.479,3.655,4.362,4.918,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Boise City,4.386,4.595,4.873,5.392,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Coeur D'Alene,4.131,4.401,4.729,5.564,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Franklin,4.178,4.436,4.666,5.359,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Idaho Falls,4.33,4.627,4.899,5.396,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Lewiston,4.072,4.29,4.548,5.579,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Pocatello,4.359,4.704,4.976,5.427,U.S Dollar,US Gallon,2026-04-21
+Idaho,ID,Twin Falls,4.351,4.654,4.927,5.47,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Alexander County,4.299,0.0,0.0,0.0,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Bloomington-Normal,4.054,4.593,4.978,5.353,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Carbondale-Marion,4.194,4.682,5.135,5.433,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Champaign-Urbana,4.116,4.714,5.05,5.319,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Chicago Metro,4.437,5.008,5.537,5.383,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,City of Chicago,4.729,5.325,5.852,5.572,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Danville,4.117,4.601,4.968,5.319,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Davenport-Moline-Rock Island (IL only),4.169,4.625,5.117,5.327,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Decatur,3.974,4.467,4.911,5.262,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,East Saint Louis,4.281,4.758,5.143,5.411,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Elgin,4.276,4.874,5.366,5.267,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Kankakee-Bradley,4.021,4.626,5.041,5.459,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Lake County,4.282,4.868,5.415,5.223,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Peoria-Pekin,4.178,4.728,5.117,5.399,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Quincy,4.003,4.354,4.59,5.202,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Rockford,4.193,4.749,5.204,5.188,U.S Dollar,US Gallon,2026-04-21
+Illinois,IL,Springfield,4.126,4.705,5.133,5.272,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Bloomington,3.842,4.39,4.861,5.493,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Clarksville,3.806,4.325,4.764,5.405,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Columbus,3.708,4.24,4.717,5.337,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Dearborn-Franklin-Ohio-Union,3.767,4.238,4.813,5.364,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Elkhart,3.651,4.229,4.741,5.205,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Evansville,3.896,4.388,4.813,5.377,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Fort Wayne,3.669,4.223,4.784,5.374,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Gary,3.729,4.257,4.735,5.214,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Indianapolis,3.69,4.285,4.781,5.357,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Kokomo,3.668,4.255,4.739,5.329,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Lafayette,3.874,4.463,4.937,5.471,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Michigan City-La Porte,3.741,4.288,4.799,5.267,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Muncie,3.656,4.177,4.678,5.291,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,South Bend,3.688,4.338,4.855,5.266,U.S Dollar,US Gallon,2026-04-21
+Indiana,IN,Terre Haute,3.68,4.098,4.582,5.259,U.S Dollar,US Gallon,2026-04-21
+Kansas,KS,Kansas City (KS only),3.525,3.897,4.246,4.734,U.S Dollar,US Gallon,2026-04-21
+Kansas,KS,Lawrence,3.569,3.919,4.402,4.737,U.S Dollar,US Gallon,2026-04-21
+Kansas,KS,Manhattan,3.505,3.824,4.171,4.59,U.S Dollar,US Gallon,2026-04-21
+Kansas,KS,Topeka,3.502,3.867,4.251,4.717,U.S Dollar,US Gallon,2026-04-21
+Kansas,KS,Wichita,3.385,3.637,3.845,4.617,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Bowling Green,3.84,4.372,4.778,5.031,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Covington,3.692,4.234,4.658,4.897,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Elizabethtown-Fort Knox,3.857,4.447,4.901,5.129,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Henderson,3.581,4.194,4.637,5.13,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Hopkinsville,3.819,4.308,4.661,5.187,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Huntington-Ashland (KY only),3.687,4.22,4.731,5.33,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Lexington,3.962,4.536,4.928,5.159,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Louisville (KY only),3.945,4.549,4.961,5.147,U.S Dollar,US Gallon,2026-04-21
+Kentucky,KY,Owensboro,3.747,4.337,4.758,5.249,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Alexandria,3.669,4.109,4.515,5.214,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Baton Rouge,3.626,4.067,4.448,5.128,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Hammond,3.618,4.022,4.49,5.106,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Houma-Thibodaux,3.707,4.094,4.481,5.023,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Lafayette,3.658,4.101,4.481,5.108,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Lake Charles,3.747,4.207,4.566,5.098,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Monroe,3.504,3.949,4.296,5.013,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,New Orleans,3.659,4.206,4.574,5.148,U.S Dollar,US Gallon,2026-04-21
+Louisiana,LA,Shreveport-Bossier City,3.655,4.075,4.441,5.063,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Barnstable-Yarmouth,3.918,4.462,4.915,5.775,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Boston (MA only),3.967,4.545,4.968,5.823,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Cambridge-Newton-Framingham,3.989,4.566,4.963,5.849,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Pittsfield,3.965,4.625,4.97,5.861,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Seekonk,3.817,4.39,4.799,5.69,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Springfield,3.857,4.397,4.775,5.787,U.S Dollar,US Gallon,2026-04-21
+Massachusetts,MA,Worcester,3.967,4.556,4.962,5.876,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Annapolis,4.02,4.63,4.967,5.779,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Baltimore,3.995,4.56,4.897,5.761,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Bowie-St. Charles,4.032,4.736,5.035,5.785,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Cumberland (MD Only),4.151,4.57,5.001,5.635,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Frederick,4.029,4.526,4.869,5.798,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Hagerstown,3.879,4.313,4.714,5.703,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Salisbury,3.998,4.46,4.835,5.761,U.S Dollar,US Gallon,2026-04-21
+Maryland,MD,Washington (MD only),4.121,4.721,5.055,5.808,U.S Dollar,US Gallon,2026-04-21
+Maine,ME,Bangor,4.004,4.534,5.056,5.731,U.S Dollar,US Gallon,2026-04-21
+Maine,ME,Lewiston-Auburn,3.927,4.514,4.98,5.848,U.S Dollar,US Gallon,2026-04-21
+Maine,ME,Portland,3.97,4.507,4.961,5.879,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Ann Arbor,3.85,4.467,5.026,5.148,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Benton Harbor,3.873,4.511,5.051,5.24,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Flint,3.65,4.239,4.833,5.128,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Grand Rapids-Muskegon-Holland,3.786,4.38,4.94,5.113,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Jackson,3.688,4.31,4.885,5.255,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Lansing-East Lansing,3.702,4.311,4.872,5.213,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Marquette,3.863,4.438,4.926,5.13,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Metro Detroit,3.813,4.468,5.038,5.165,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Saginaw-Bay City-Midland,3.685,4.287,4.846,5.173,U.S Dollar,US Gallon,2026-04-21
+Michigan,MI,Traverse City,3.711,4.287,4.881,5.14,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Duluth-Superior (MN only),3.588,4.026,4.488,5.116,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Houston County,3.638,0.0,4.819,5.024,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Mankato,3.654,4.05,4.605,5.104,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Minneapolis-St. Paul (MN only),3.69,4.147,4.617,5.06,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Moorhead,3.465,3.756,4.237,4.889,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Polk County,3.611,3.749,4.319,4.953,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,Rochester,3.726,4.074,4.811,5.113,U.S Dollar,US Gallon,2026-04-21
+Minnesota,MN,St. Cloud,3.518,3.938,4.524,4.809,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Cape Girardeau,3.816,4.226,4.557,5.135,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Columbia,3.667,3.944,4.3,4.865,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Jefferson City,3.613,3.932,4.278,4.828,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Joplin,3.29,3.658,3.951,4.635,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Kansas City (MO only),3.514,3.869,4.213,4.73,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,Springfield,3.277,3.615,3.941,4.657,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,St. Joseph,3.497,3.871,4.205,4.651,U.S Dollar,US Gallon,2026-04-21
+Missouri,MO,St. Louis (MO only),3.849,4.257,4.577,4.903,U.S Dollar,US Gallon,2026-04-21
+Mississippi,MS,Biloxi-Gulfport-Pascagoula,3.554,3.946,4.346,5.025,U.S Dollar,US Gallon,2026-04-21
+Mississippi,MS,Hattiesburg,3.635,4.087,4.43,5.017,U.S Dollar,US Gallon,2026-04-21
+Mississippi,MS,Jackson,3.733,4.185,4.557,5.057,U.S Dollar,US Gallon,2026-04-21
+Mississippi,MS,South Haven - Olive Branch,3.669,4.245,4.584,5.205,U.S Dollar,US Gallon,2026-04-21
+Montana,MT,Billings,3.813,4.182,4.531,4.915,U.S Dollar,US Gallon,2026-04-21
+Montana,MT,Great Falls,3.839,4.12,4.433,4.987,U.S Dollar,US Gallon,2026-04-21
+Montana,MT,Missoula,3.941,4.272,4.567,4.94,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Asheville,3.854,4.321,4.732,5.472,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Burlington,3.792,4.191,4.613,5.682,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Charlotte-Gastonia-Rock Hill (NC only),3.757,4.24,4.613,5.598,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Durham-Chapel Hill,3.898,4.332,4.708,5.835,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Fayetteville,3.629,4.031,4.48,5.518,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Goldsboro,3.645,4.095,4.492,5.576,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Greensboro,3.778,4.198,4.614,5.65,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Hickory-Lenoir-Morganton,3.671,4.086,4.471,5.399,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Jacksonville,3.7,4.145,4.549,5.651,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,New Bern,3.739,4.189,4.621,5.559,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Norfolk-Virginia Beach-Newport News,3.906,4.403,4.693,5.619,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Raleigh,3.779,4.21,4.608,5.683,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Rocky Mount,3.631,4.08,4.409,5.565,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Wilmington,3.745,4.227,4.656,5.774,U.S Dollar,US Gallon,2026-04-21
+North Carolina,NC,Winston-Salem,3.747,4.222,4.596,5.629,U.S Dollar,US Gallon,2026-04-21
+North Dakota,ND,Bismarck,3.668,3.935,4.394,4.758,U.S Dollar,US Gallon,2026-04-21
+North Dakota,ND,Fargo-Moorhead (ND only),3.311,3.693,4.053,4.787,U.S Dollar,US Gallon,2026-04-21
+North Dakota,ND,Grand Forks (ND only),3.576,3.846,4.241,4.919,U.S Dollar,US Gallon,2026-04-21
+North Dakota,ND,Minot,3.657,3.923,4.436,4.832,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Columbus,3.509,4.449,3.642,4.918,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Grand Island,3.711,3.639,4.26,4.856,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Kearney,3.567,4.077,4.268,4.869,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Lincoln,3.586,3.831,4.4,4.849,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Norfolk,3.459,3.757,4.315,4.79,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,North Platte,3.659,3.663,3.921,4.738,U.S Dollar,US Gallon,2026-04-21
+Nebraska,NE,Omaha (NE only),3.452,3.757,4.279,4.838,U.S Dollar,US Gallon,2026-04-21
+New Hampshire,NH,Manchester,3.926,4.499,4.955,5.774,U.S Dollar,US Gallon,2026-04-21
+New Hampshire,NH,Portsmouth-Rochester (NH only),3.904,4.457,4.915,5.763,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Atlantic City,3.948,4.422,4.671,5.753,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Bergen-Passaic,3.964,4.533,4.799,5.747,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Cape May,4.089,4.566,4.915,5.888,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Middlesex-Somerset-Hunterdon,3.923,4.462,4.774,5.724,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Monmouth-Ocean,3.942,4.514,4.751,5.759,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Newark,4.0,4.598,4.842,5.763,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Parsippany-Troy Hills,3.927,4.464,4.74,5.738,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Philadelphia (NJ Only),3.885,4.394,4.657,5.687,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Trenton,3.912,4.47,4.772,5.699,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Vineland,3.984,4.408,4.642,5.737,U.S Dollar,US Gallon,2026-04-21
+New Jersey,NJ,Warren County,3.86,4.363,4.712,5.726,U.S Dollar,US Gallon,2026-04-21
+New Mexico,NM,Albuquerque,3.762,4.225,4.557,5.183,U.S Dollar,US Gallon,2026-04-21
+New Mexico,NM,Farmington,4.064,4.453,4.747,5.722,U.S Dollar,US Gallon,2026-04-21
+New Mexico,NM,Las Cruces,3.807,4.316,4.63,5.232,U.S Dollar,US Gallon,2026-04-21
+New Mexico,NM,Santa Fe,3.708,4.143,4.403,5.381,U.S Dollar,US Gallon,2026-04-21
+Nevada,NV,Las Vegas (NV only),4.978,5.332,5.635,6.24,U.S Dollar,US Gallon,2026-04-21
+Nevada,NV,Reno,5.129,5.342,5.552,6.387,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Albany-Schenectady-Troy,4.072,4.608,5.033,5.874,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Batavia,4.155,4.63,5.072,5.885,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Binghamton,4.107,4.558,4.984,5.817,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Buffalo-Niagara Falls,4.143,4.593,5.002,5.894,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Dutchess-Putnam County,4.116,4.674,5.045,5.923,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Elmira,4.031,4.41,4.776,5.808,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Glens Falls,4.084,4.568,5.047,5.846,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Ithaca,4.113,4.538,4.981,5.899,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Kingston,4.012,4.547,4.919,5.813,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Nassau-Suffolk,4.002,4.484,4.846,5.897,U.S Dollar,US Gallon,2026-04-21
+New York,NY,New York,4.13,4.627,4.976,6.05,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Rochester,4.167,4.633,5.011,5.929,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Syracuse,4.128,4.614,5.026,5.883,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Utica-Rome,4.083,4.553,4.968,5.862,U.S Dollar,US Gallon,2026-04-21
+New York,NY,Watertown-Fort Drum,4.134,4.664,5.037,5.875,U.S Dollar,US Gallon,2026-04-21
+New York,NY,White Plains,4.179,4.829,5.17,6.034,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Akron,3.63,4.18,4.71,5.324,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Belmont County,3.725,4.317,4.801,5.551,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Canton-Massillon,3.64,4.159,4.675,5.258,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Cincinnati (OH only),3.616,4.122,4.643,5.278,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Cleveland-Lorain-Elyria,3.716,4.299,4.825,5.342,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Columbus,3.681,4.219,4.738,5.375,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Dayton,3.64,4.192,4.71,5.27,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Lawerence County,3.824,4.332,4.84,5.358,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Lima,3.53,4.076,4.687,5.116,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Mansfield,3.68,4.218,4.728,5.319,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Springfield,3.566,4.097,4.562,5.245,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Steubenville-Weirton (OH only),3.812,4.356,4.848,5.478,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Toledo,3.591,4.132,4.646,5.305,U.S Dollar,US Gallon,2026-04-21
+Ohio,OH,Youngstown-Warren,3.675,4.253,4.758,5.345,U.S Dollar,US Gallon,2026-04-21
+Oklahoma,OK,Lawton,3.243,3.504,3.885,4.749,U.S Dollar,US Gallon,2026-04-21
+Oklahoma,OK,Le Flore-Sequoyah,3.398,3.737,4.148,4.815,U.S Dollar,US Gallon,2026-04-21
+Oklahoma,OK,Oklahoma City,3.315,3.773,4.032,4.512,U.S Dollar,US Gallon,2026-04-21
+Oklahoma,OK,Tulsa,3.376,3.717,4.016,4.759,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Albany,4.836,4.966,5.332,6.255,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Bend,4.917,5.107,5.424,6.187,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Corvallis,4.84,5.037,5.359,6.193,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Eugene-Springfield,4.951,5.14,5.404,6.253,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Grants Pass,5.11,5.323,5.536,6.242,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Medford-Ashland,5.07,5.248,5.525,6.2,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Pendleton,4.728,5.037,5.29,6.051,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Portland-Vancouver (OR only),5.049,5.296,5.572,6.29,U.S Dollar,US Gallon,2026-04-21
+Oregon,OR,Salem,4.901,5.13,5.417,6.388,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Allentown-Bethlehem-Easton,3.955,4.376,4.745,5.882,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Altoona,4.173,4.595,4.991,6.115,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Bloomsburg-Berwick,3.985,4.436,4.837,5.861,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Chambersburg-Waynesboro,4.014,4.428,4.801,5.942,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,East Stroudsburg,4.007,4.539,4.929,5.936,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Erie,4.23,4.646,5.043,6.113,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Gettysburg,4.213,4.586,5.001,6.096,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Harrisburg,4.102,4.541,4.93,6.017,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Johnstown,4.127,4.55,4.963,6.134,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Lancaster,4.08,4.514,4.927,6.021,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Lebanon,4.101,4.558,4.942,6.056,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Mercer County,4.069,4.471,4.899,6.015,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Philadelphia (PA only),4.048,4.561,4.877,5.912,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Pittsburgh,4.14,4.569,5.001,6.09,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Reading,4.09,4.51,4.864,5.909,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Scranton--Wilkes-Barre--Hazleton,4.111,4.532,4.947,6.054,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,State College,4.126,4.514,4.923,6.015,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,Williamsport,3.952,4.367,4.753,5.955,U.S Dollar,US Gallon,2026-04-21
+Pennsylvania,PA,York,4.094,4.51,4.875,6.038,U.S Dollar,US Gallon,2026-04-21
+Rhode Island,RI,Providence-Fall River-Warwick (RI only),3.939,4.606,5.012,5.733,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Aiken-Edgfield County,3.639,4.102,4.519,5.446,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Charleston-North Charleston,3.657,4.076,4.492,5.376,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Columbia,3.71,4.165,4.577,5.545,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Florence,3.681,4.126,4.549,5.218,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Greenville,3.625,4.035,4.414,5.567,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Hilton Head-Bluffton,3.852,4.345,4.72,5.437,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Myrtle Beach,3.605,4.068,4.46,5.384,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Rock Hill,3.674,4.148,4.525,5.541,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Spartanburg,3.678,4.125,4.511,5.55,U.S Dollar,US Gallon,2026-04-21
+South Carolina,SC,Sumter,3.788,4.125,4.475,5.465,U.S Dollar,US Gallon,2026-04-21
+South Dakota,SD,North Sioux City,3.491,3.622,4.241,4.818,U.S Dollar,US Gallon,2026-04-21
+South Dakota,SD,Rapid City,3.784,3.924,4.436,4.954,U.S Dollar,US Gallon,2026-04-21
+South Dakota,SD,Sioux Falls,3.536,3.909,4.381,4.613,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Chattanooga (TN only),3.594,4.048,4.387,5.152,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Clarksville-Hopkinsville (TN only),3.72,4.189,4.553,5.37,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Cleveland,3.683,4.112,4.51,5.286,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Jackson,3.794,4.287,4.74,5.299,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Johnson City,3.774,4.202,4.579,5.221,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Kingsport-Bristol,3.768,4.14,4.565,5.261,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Knoxville,3.735,4.147,4.553,5.303,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Memphis (TN only),3.781,4.385,4.803,5.293,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Morristown,3.733,4.116,4.468,5.228,U.S Dollar,US Gallon,2026-04-21
+Tennessee,TN,Nashville,3.775,4.248,4.662,5.381,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Abilene,3.608,4.001,4.349,5.026,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Amarillo,3.344,3.676,4.031,4.675,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Austin-San Marcos,3.637,4.092,4.465,5.122,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Beaumont-Port Arthur,3.708,4.156,4.59,5.096,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Brownsville-Harlingen,3.438,3.983,4.376,5.031,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,College Station-Bryan,3.813,4.282,4.652,5.173,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Corpus Christi,3.544,4.13,4.523,4.984,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Dallas,3.509,3.925,4.27,5.161,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,El Paso,3.835,4.359,4.695,5.274,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Fort Worth-Arlington,3.523,3.943,4.293,5.156,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Galveston-Texas City,3.765,4.283,4.674,5.042,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Houston,3.736,4.304,4.723,5.034,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Killeen-Temple-Fort Hood,3.683,4.089,4.409,5.124,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Laredo,3.495,3.986,4.401,5.004,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Longview,3.667,4.137,4.489,5.093,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Lubbock,3.304,3.719,4.029,4.59,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,McAllen-Edinburg-Mission,3.458,4.036,4.441,5.006,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Midland,3.554,4.119,4.39,4.997,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Odessa,3.594,4.169,4.464,5.128,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,San Angelo,3.701,4.217,4.511,5.17,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,San Antonio,3.584,4.06,4.43,5.13,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Sherman-Denison,3.432,3.729,4.038,5.078,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Texarkana (TX only),3.698,4.157,4.485,5.191,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Tyler,3.562,3.978,4.325,5.05,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Victoria,3.698,4.117,4.455,5.144,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Waco,3.679,4.09,4.463,5.124,U.S Dollar,US Gallon,2026-04-21
+Texas,TX,Wichita Falls,3.649,4.103,4.447,5.087,U.S Dollar,US Gallon,2026-04-21
+Utah,UT,Logan,4.143,4.415,4.651,5.351,U.S Dollar,US Gallon,2026-04-21
+Utah,UT,Ogden,4.182,4.494,4.759,5.325,U.S Dollar,US Gallon,2026-04-21
+Utah,UT,Provo-Orem,4.154,4.438,4.687,5.338,U.S Dollar,US Gallon,2026-04-21
+Utah,UT,Salt Lake City,4.166,4.464,4.713,5.353,U.S Dollar,US Gallon,2026-04-21
+Utah,UT,St. George,4.236,4.519,4.785,5.426,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Blacksburg-Christiansburg-Radford,3.867,4.301,4.692,5.567,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Bristol-Scott-Washington,3.887,4.369,4.693,5.491,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Charlottesville,3.873,4.333,4.681,5.643,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Fredericksburg,3.738,4.109,4.471,5.605,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Harrisonburg,3.804,4.22,4.61,5.581,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Lynchburg,3.84,4.298,4.715,5.565,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Norfolk-Virginia Beach-Newport News,3.923,4.354,4.751,5.728,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Richmond-Petersburg,3.882,4.385,4.75,5.636,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Roanoke,3.865,4.324,4.718,5.605,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Staunton-Waynesboro,3.753,4.156,4.551,5.643,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,"Washington, DC, (VA Only)",3.966,4.477,4.843,5.775,U.S Dollar,US Gallon,2026-04-21
+Virginia,VA,Winchester,3.711,4.207,4.589,5.561,U.S Dollar,US Gallon,2026-04-21
+Vermont,VT,Burlington,4.061,4.503,5.026,5.703,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Bellingham,5.299,5.567,5.824,6.632,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Bremerton,5.478,5.725,5.947,7.0,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Clarkson,4.707,0.0,4.874,5.599,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Longview,5.415,5.572,5.868,6.86,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Mount Vernon-Anacortes,5.263,5.437,5.713,6.671,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Olympia,5.433,5.665,5.928,7.041,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Richland-Kennewick-Pasco,5.061,5.328,5.58,6.779,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Seattle-Bellevue-Everett,5.611,5.845,6.062,7.02,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Spokane,4.914,5.152,5.445,6.593,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Tacoma,5.47,5.68,5.958,6.982,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Vancouver,5.354,5.607,5.859,6.709,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Walla Walla,5.172,5.386,5.721,6.807,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Wenatchee,5.16,5.375,5.554,6.81,U.S Dollar,US Gallon,2026-04-21
+Washington,WA,Yakima,5.039,5.28,5.561,6.636,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Appleton,3.702,4.213,4.821,4.807,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Eau Claire,3.491,3.848,4.566,4.936,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Fond du Lac,3.644,4.217,4.847,4.717,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Green Bay,3.717,4.272,4.861,4.89,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Janesville-Beloit,3.804,4.329,4.875,4.838,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Kenosha County,3.78,4.356,4.911,4.976,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,La Crosse (WI only),3.575,3.799,4.779,4.878,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Madison,3.803,4.349,4.928,4.854,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Milwaukee-Waukesha,3.703,4.242,4.753,4.866,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Oshkosh,3.7,4.242,4.818,4.855,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Pierce -St. Croix County,3.642,4.05,4.646,5.015,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Racine,3.752,4.307,4.848,4.975,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Sheboygan,3.641,4.266,4.791,4.819,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Superior,3.675,4.319,4.797,5.213,U.S Dollar,US Gallon,2026-04-21
+Wisconsin,WI,Wausau,3.631,4.179,4.786,4.896,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Beckley,4.098,4.557,4.987,5.564,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Charleston,3.83,4.293,4.776,5.328,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Hampshire County,4.141,4.599,5.066,5.599,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Huntington,3.799,4.229,4.688,5.496,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Jefferson County,3.814,4.283,4.681,5.678,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Mineral County,3.814,4.166,4.499,5.582,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Morgantown,4.055,4.509,4.955,5.649,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Parkersburg-Marietta (WV only),3.668,4.071,4.51,5.385,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Steubenville-Weirton (WV only),3.822,4.305,4.792,5.445,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,"Washington, DC (WV Only)",3.687,4.085,4.449,5.315,U.S Dollar,US Gallon,2026-04-21
+West Virginia,WV,Wheeling (WV only),3.76,4.227,4.606,5.541,U.S Dollar,US Gallon,2026-04-21
+Wyoming,WY,Casper,3.617,3.946,4.237,4.84,U.S Dollar,US Gallon,2026-04-21
+Wyoming,WY,Cheyenne,3.718,4.08,4.321,4.886,U.S Dollar,US Gallon,2026-04-21
