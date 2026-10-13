@@ -1,0 +1,52 @@
+State-Name,State-Abbreviation,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,4.9893,5.2343,5.4608,6.563,U.S Dollar,US Gallon,2026-10-13
+Alabama,AL,3.9654,4.4422,4.8478,5.9326,U.S Dollar,US Gallon,2026-10-13
+Arkansas,AR,3.9558,4.4474,4.8318,5.9119,U.S Dollar,US Gallon,2026-10-13
+Arizona,AZ,4.6904,5.0413,5.3695,6.2053,U.S Dollar,US Gallon,2026-10-13
+California,CA,6.2826,6.513,6.7052,8.3934,U.S Dollar,US Gallon,2026-10-13
+Colorado,CO,4.2472,4.6412,4.9782,6.3579,U.S Dollar,US Gallon,2026-10-13
+Connecticut,CT,4.4067,5.0126,5.4285,6.4529,U.S Dollar,US Gallon,2026-10-13
+District of Columbia,DC,4.4444,5.0666,5.477,6.5016,U.S Dollar,US Gallon,2026-10-13
+Delaware,DE,4.2354,4.8218,5.1379,6.3069,U.S Dollar,US Gallon,2026-10-13
+Florida,FL,4.1151,4.5968,4.9287,5.9463,U.S Dollar,US Gallon,2026-10-13
+Georgia,GA,3.7957,4.2699,4.6926,5.74,U.S Dollar,US Gallon,2026-10-13
+Hawaii,HI,5.6376,5.9066,6.1457,7.2616,U.S Dollar,US Gallon,2026-10-13
+Iowa,IA,4.2211,4.5298,5.1271,6.075,U.S Dollar,US Gallon,2026-10-13
+Idaho,ID,4.8798,5.1896,5.4586,6.3559,U.S Dollar,US Gallon,2026-10-13
+Illinois,IL,4.6744,5.2986,5.8429,6.5697,U.S Dollar,US Gallon,2026-10-13
+Indiana,IN,3.8834,4.4716,5.0047,6.624,U.S Dollar,US Gallon,2026-10-13
+Kansas,KS,4.0096,4.3645,4.7291,6.0076,U.S Dollar,US Gallon,2026-10-13
+Kentucky,KY,4.0089,4.5755,5.0098,6.1166,U.S Dollar,US Gallon,2026-10-13
+Louisiana,LA,3.9208,4.3789,4.7882,5.8177,U.S Dollar,US Gallon,2026-10-13
+Massachusetts,MA,4.3139,4.9468,5.3556,6.3315,U.S Dollar,US Gallon,2026-10-13
+Maryland,MD,4.2592,4.8449,5.1515,6.3626,U.S Dollar,US Gallon,2026-10-13
+Maine,ME,4.3803,4.9254,5.4074,6.4429,U.S Dollar,US Gallon,2026-10-13
+Michigan,MI,4.6212,5.2761,5.8675,6.4811,U.S Dollar,US Gallon,2026-10-13
+Minnesota,MN,4.2336,4.6914,5.2477,6.1339,U.S Dollar,US Gallon,2026-10-13
+Missouri,MO,3.9834,4.3461,4.7148,5.9896,U.S Dollar,US Gallon,2026-10-13
+Mississippi,MS,3.9243,4.3914,4.7755,5.8812,U.S Dollar,US Gallon,2026-10-13
+Montana,MT,4.4942,4.8127,5.1617,6.1063,U.S Dollar,US Gallon,2026-10-13
+North Carolina,NC,3.8106,4.2637,4.6562,5.7626,U.S Dollar,US Gallon,2026-10-13
+North Dakota,ND,4.1343,4.5916,5.1392,5.9959,U.S Dollar,US Gallon,2026-10-13
+Nebraska,NE,4.1943,4.4821,5.0257,6.032,U.S Dollar,US Gallon,2026-10-13
+New Hampshire,NH,4.2984,4.8788,5.3387,6.3517,U.S Dollar,US Gallon,2026-10-13
+New Jersey,NJ,4.3027,4.8767,5.177,6.3239,U.S Dollar,US Gallon,2026-10-13
+New Mexico,NM,4.4111,4.8378,5.1631,5.9886,U.S Dollar,US Gallon,2026-10-13
+Nevada,NV,5.4383,5.7482,6.0471,6.7612,U.S Dollar,US Gallon,2026-10-13
+New York,NY,4.4522,4.9845,5.3821,6.5112,U.S Dollar,US Gallon,2026-10-13
+Ohio,OH,3.8499,4.3997,4.9421,6.0696,U.S Dollar,US Gallon,2026-10-13
+Oklahoma,OK,4.0075,4.4538,4.7654,5.868,U.S Dollar,US Gallon,2026-10-13
+Oregon,OR,4.9938,5.2552,5.5457,6.7527,U.S Dollar,US Gallon,2026-10-13
+Pennsylvania,PA,4.4669,4.9273,5.3091,6.5455,U.S Dollar,US Gallon,2026-10-13
+Rhode Island,RI,4.2796,5.003,5.4297,6.3257,U.S Dollar,US Gallon,2026-10-13
+South Carolina,SC,3.9602,4.42,4.824,5.8237,U.S Dollar,US Gallon,2026-10-13
+South Dakota,SD,4.2056,4.4433,5.0498,6.0049,U.S Dollar,US Gallon,2026-10-13
+Tennessee,TN,3.919,4.3757,4.7786,6.0067,U.S Dollar,US Gallon,2026-10-13
+Texas,TX,3.838,4.339,4.7141,5.7229,U.S Dollar,US Gallon,2026-10-13
+Utah,UT,4.8343,5.1169,5.3618,6.302,U.S Dollar,US Gallon,2026-10-13
+Virginia,VA,4.1561,4.6376,5.0249,6.2157,U.S Dollar,US Gallon,2026-10-13
+Vermont,VT,4.4191,4.9632,5.4244,6.3856,U.S Dollar,US Gallon,2026-10-13
+Washington,WA,5.4442,5.7162,5.9714,7.2817,U.S Dollar,US Gallon,2026-10-13
+Wisconsin,WI,4.123,4.725,5.307,6.1848,U.S Dollar,US Gallon,2026-10-13
+West Virginia,WV,4.2458,4.6784,5.1284,6.3653,U.S Dollar,US Gallon,2026-10-13
+Wyoming,WY,4.4946,4.7538,5.0808,6.198,U.S Dollar,US Gallon,2026-10-13
